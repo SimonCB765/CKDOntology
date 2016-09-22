@@ -1,0 +1,10 @@
+{
+  "ToCheck": {
+    "AoCRF": ["http://patient.info/doctor/acute-on-chronic-kidney-disease"],
+    "ATN": [
+      "https://medlineplus.gov/ency/article/000512.htm",
+      "https://en.wikipedia.org/wiki/Acute_tubular_necrosis",
+      "http://emedicine.medscape.com/article/238064-overview"
+    ]
+  }
+}

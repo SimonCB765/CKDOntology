@@ -1,0 +1,89 @@
+[
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "Kidney Failure",
+    "Target": "Renal Insufficiency"
+  },
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "CKD",
+    "Target": "Renal Insufficiency"},
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "CKD S1-4",
+    "Target": "CKD"},
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "CKD S5",
+    "Target": "CKD"},
+  {
+    "Description": "",
+    "Label": "CauseOf",
+    "References": [],
+    "Source": "CKD S5",
+    "Target": "Kidney Failure"},
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "AKI",
+    "Target": "Renal Insufficiency"},
+  {
+    "Description": "",
+    "Label": "CauseOf",
+    "References": [],
+    "Source": "AKI",
+    "Target": "Kidney Failure"},
+  {
+    "Description": "",
+    "Label": "TypeOf",
+    "References": [],
+    "Source": "AoCRF",
+    "Target": "Renal Insufficiency"},
+  {
+    "Description": "",
+    "Label": "ContributesTo",
+    "References": [],
+    "Source": "CKD",
+    "Target": "AoCRF"},
+  {
+    "Description": "",
+    "Label": "ContributesTo",
+    "References": [],
+    "Source": "AKI",
+    "Target": "AoCRF"},
+
+
+
+
+
+
+
+  {
+    "Description": "",
+    "Label": "ContributesTo",
+    "References": [],
+    "Source": "AKI",
+    "Target": "CKD"},
+  {
+    "Description": "",
+    "Label": "CauseOf",
+    "References": [],
+    "Source": "ATN",
+    "Target": "AKI"},
+  {
+    "Description": "",
+    "Label": "",
+    "References": [],
+    "Source": "",
+    "Target": ""
+  }
+]

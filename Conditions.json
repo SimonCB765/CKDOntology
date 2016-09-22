@@ -1,0 +1,97 @@
+{
+  "Renal Insufficiency": {
+    "Name": "Renal Insufficiency",
+    "AltNames": [],
+    "Description": ""
+  },
+  "Kidney Failure": {
+    "Name": "Kidney Failure",
+    "AltNames": ["Renal Failure"],
+    "Description": ""
+  },
+  "CKD": {
+    "Name": "Chronic Kidney Disease",
+    "AltNames": [
+      "Chronic Kidney Failure",
+      "Chronic Renal Disease",
+      "Chronic Renal Failure",
+      "Chronic Renal Insufficiency"
+    ],
+    "Description": ""
+  },
+  "CKD S1-4": {
+    "Name": "Chronic Kidney Disease Stages 1 to 4",
+    "AltNames": [],
+    "Description": ""
+  },
+  "CKD S5": {
+    "Name": "Chronic Kidney Disease Stage 5",
+    "AltNames": [
+      "End-Stage Kidney Disease",
+      "End-Stage Kidney Failure",
+      "End-Stage Renal Disease",
+      "End-Stage Renal Failure"
+    ],
+    "Description": ""
+  },
+  "AKI": {
+    "Name": "Acute Kidney Injury",
+    "AltNames": ["Acute Kidney Failure", "Acute Renal Failure", "Acute Renal Injury"],
+    "Description": ""
+  },
+  "AoCRF": {
+    "Name": "Acute-on-Chronic Renal Failure",
+    "AltNames": ["Acute-on-Chronic Kidney Failure"],
+    "Description": ""
+  },
+  "ATN": {
+    "Name": "Acute Tubular Necrosis",
+    "AltNames": ["Acute Kidney Tubular Necrosis"],
+    "Description": ""
+  },
+
+
+
+
+
+  "DM": {
+    "Name": "Diabetes Mellitus",
+    "AltNames": [],
+    "Description": ""
+  },
+  "T1DM": {
+    "Name": "Type 1 Diabetes Mellitus",
+    "AltNames": [],
+    "Description": ""
+  },
+  "T2DM": {
+    "Name": "Type 2 Diabetes Mellitus",
+    "AltNames": [],
+    "Description": ""
+  },
+  "CKD-MBD": {
+    "Name": "Chronic Kidney Disease–Mineral Bone Disorder",
+    "AltNames": [],
+    "Description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with chronic kidney disease."
+  },
+  "CVD": {
+    "Name": "Cardiovascular Disease",
+    "AltNames": [],
+    "Description": "A general term that describes a disease of the heart or blood vessels."
+  },
+  "Hypertension": {
+    "Name": "Hypertension",
+    "AltNames": ["High Blood Pressure"],
+    "Description": ""
+  },
+
+
+
+
+
+  "": {
+    "Name": "",
+    "AltNames": [],
+    "Description": ""
+  }
+}
