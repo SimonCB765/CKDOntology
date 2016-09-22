@@ -6,5 +6,13 @@
       "https://en.wikipedia.org/wiki/Acute_tubular_necrosis",
       "http://emedicine.medscape.com/article/238064-overview"
     ]
+    "CKD": [
+      "http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/diseases/chronic-kidney-disease-and-failure",
+      "https://en.wikipedia.org/wiki/Kidney_failure",
+      "http://www.ncbi.nlm.nih.gov/pubmed/21239831",
+      "http://www.medicinenet.com/script/main/art.asp?articlekey=30944",
+      "http://www.sciencedirect.com/science/article/pii/S0272638600562118",
+      "http://www.ucdmc.ucdavis.edu/vascular/diseases/renal_insufficiency.html"
+    ]
   }
 }
