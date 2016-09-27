@@ -1,0 +1,17 @@
+- Acute-on-Chronic Renal Failure (AoCRF)
+    - RenalInsufficiency.md
+- Acute Tubular Necrosis (ATN)
+    - RenalInsufficiency.md
+- AKI
+    - RenalInsufficiency.md
+- CKD (all stages including ESRF)
+    - RenalInsufficiency.md
+- CKD-MBD
+    - CKD_MBD.md
+- Dialysis
+    - CKD_MBD.md
+    - RenalInsufficiency.md
+- Kidney Failure
+    - RenalInsufficiency.md
+- Renal Insufficiency
+    - RenalInsufficiency.md
