@@ -17,6 +17,7 @@ def init_database_location(URI):
     global databaseURI
     databaseURI = URI
 
+
 def init_user(user=None, passW=None):
     """Initialise the username and password for the Neo4j database.
 
