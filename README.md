@@ -8,15 +8,18 @@
 
 # Database Structure
 
+A property with a * in front of it is the unique identifier by which a node is referenced.
+
 ## Conditions
 Conditions are nodes.
 
 - Labels
     - :Condition
 - Properties
-    - Name - The name of the condition.
-    - AltNames - List of alternative names of the condition.
-    - Description - A description of the condition.
+    - alternativeNames - List of alternative names of the condition.
+    - description - A description of the condition.
+    - *id - The short form name by which the condition is referenced.
+    - name - The name of the condition.
 
 ## Measurements
 Measurements are nodes.
@@ -24,28 +27,10 @@ Measurements are nodes.
 - Labels
     - :Measurement
 - Properties
-    - Method - How the measurement is taken (e.g. serum, blood, fasting, total).
-    - Description - A description of what the measurement measures and why you may want it measured.    
-
-## Medications
-Medications are nodes.
-
-- Labels
-    - :Medication
-- Properties
-    - Name - The primary identifier by which the medication is known (generic where possible).
-    - PropNames - Any proprietary names for the medication.
-    - GenericNames - Any generic names for the medication.
-    - ModeOfAction - A description of how the medication acts and its effects.
-
-## Treatments
-Treatments are nodes.
-
-- Labels
-    - :Treatment
-- Properties
-    - Name - The name of the type of treatment (e.g. blood thinner, vasodilator).
-    - Description - A description of what the treatment does and why it is used.
+    - alternativeNames - The alternative names of the entity being measured.
+    - description - A description of what the measurement measures and why you may want it measured.
+    - method - Ways of taking the measurement that are of interest (e.g. serum, blood, fasting, total).
+    - *name - The name of the entity being measured (e.g. blood glucose, eGFR).
 
 ## References
 References are nodes.
@@ -56,9 +41,10 @@ References are nodes.
         - :Journal
         - :Website
 - Properties
-    - Title - Any title (such as a journal article title) associated with the reference.
-    - WebAddress - A (preferably non-PDF) web address where the reference can be found.
-    - Description - A brief description of the contents of the reference.
+    - description - A brief description of the contents of the reference.
+    - *id - The unique ID through by the reference is referred to.
+    - title - Any title (such as a journal article title) associated with the reference.
+    - webAddress - A (preferably non-PDF) web address where the reference can be found.
 
 ## Relationships
 Relationships are edges. Recording relationships between nodes in the graph would ideally be done as a hyperedge, due to the
@@ -82,3 +68,14 @@ being specified using the IDs of the nodes.
 - Properties
     - Description - A description of the relationship (including references where needed). For example, how and why condition A causes condition B.
     - References - The IDs of the references used to determine the relationship.
+
+## Treatments
+Treatments are nodes.
+
+- Labels
+    - :Treatment
+- Properties
+    - description - A description of what the treatment does, how it does what it does, why it is used and what its effect is.
+    - genericNames - Non-proprietary names for the treatment.
+    - *name - The primary identifier by which the treatment is known (a non-proprietary name where possible).
+    - propNames - Any proprietary names for the treatment.
