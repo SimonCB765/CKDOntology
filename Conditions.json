@@ -1,97 +1,112 @@
-{
-  "Renal Insufficiency": {
-    "Name": "Renal Insufficiency",
-    "AltNames": [],
-    "Description": ""
+[
+  {
+    "altNames": [],
+    "description": "",
+    "id": "Renal Insufficiency",
+    "name": "Renal Insufficiency"
   },
-  "Kidney Failure": {
-    "Name": "Kidney Failure",
-    "AltNames": ["Renal Failure"],
-    "Description": ""
+  {
+    "altNames": ["Renal Failure"],
+    "description": "",
+    "id": "Kidney Failure",
+    "name": "Kidney Failure"
   },
-  "CKD": {
-    "Name": "Chronic Kidney Disease",
-    "AltNames": [
+  {
+    "altNames": [
       "Chronic Kidney Failure",
       "Chronic Renal Disease",
       "Chronic Renal Failure",
       "Chronic Renal Insufficiency"
     ],
-    "Description": ""
+    "description": "",
+    "id": "CKD",
+    "name": "Chronic Kidney Disease"
   },
-  "CKD S1-4": {
-    "Name": "Chronic Kidney Disease Stages 1 to 4",
-    "AltNames": [],
-    "Description": ""
+  {
+    "altNames": [],
+    "description": "",
+    "id": "CKD S1-4",
+    "name": "Chronic Kidney Disease Stages 1 to 4"
   },
-  "CKD S5": {
-    "Name": "Chronic Kidney Disease Stage 5",
-    "AltNames": [
+  {
+    "altNames": [
       "End-Stage Kidney Disease",
       "End-Stage Kidney Failure",
       "End-Stage Renal Disease",
       "End-Stage Renal Failure"
     ],
-    "Description": ""
+    "description": "",
+    "id": "CKD S5",
+    "name": "Chronic Kidney Disease Stage 5"
   },
-  "AKI": {
-    "Name": "Acute Kidney Injury",
-    "AltNames": ["Acute Kidney Failure", "Acute Renal Failure", "Acute Renal Injury"],
-    "Description": ""
+  {
+    "altNames": ["Acute Kidney Failure", "Acute Renal Failure", "Acute Renal Injury"],
+    "description": "",
+    "id": "AKI",
+    "name": "Acute Kidney Injury"
   },
-  "AoCRF": {
-    "Name": "Acute-on-Chronic Renal Failure",
-    "AltNames": ["Acute-on-Chronic Kidney Failure"],
-    "Description": ""
+  {
+    "altNames": ["Acute-on-Chronic Kidney Failure"],
+    "description": "",
+    "id": "AoCRF",
+    "name": "Acute-on-Chronic Renal Failure"
   },
-  "ATN": {
-    "Name": "Acute Tubular Necrosis",
-    "AltNames": ["Acute Kidney Tubular Necrosis"],
-    "Description": ""
-  },
-
-
-
-
-
-  "DM": {
-    "Name": "Diabetes Mellitus",
-    "AltNames": [],
-    "Description": ""
-  },
-  "T1DM": {
-    "Name": "Type 1 Diabetes Mellitus",
-    "AltNames": [],
-    "Description": ""
-  },
-  "T2DM": {
-    "Name": "Type 2 Diabetes Mellitus",
-    "AltNames": [],
-    "Description": ""
-  },
-  "CKD-MBD": {
-    "Name": "Chronic Kidney Disease–Mineral Bone Disorder",
-    "AltNames": [],
-    "Description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with chronic kidney disease."
-  },
-  "CVD": {
-    "Name": "Cardiovascular Disease",
-    "AltNames": [],
-    "Description": "A general term that describes a disease of the heart or blood vessels."
-  },
-  "Hypertension": {
-    "Name": "Hypertension",
-    "AltNames": ["High Blood Pressure"],
-    "Description": ""
+  {
+    "altNames": ["Acute Kidney Tubular Necrosis"],
+    "description": "",
+    "id": "ATN",
+    "name": "Acute Tubular Necrosis"
   },
 
 
 
 
 
-  "": {
-    "Name": "",
-    "AltNames": [],
-    "Description": ""
+  {
+    "altNames": [],
+    "description": "",
+    "id": "DM",
+    "name": "Diabetes Mellitus"
+  },
+  {
+    "altNames": [],
+    "description": "",
+    "id": "T1DM",
+    "name": "Type 1 Diabetes Mellitus"
+  },
+  {
+    "altNames": [],
+    "description": "",
+    "id": "T2DM",
+    "name": "Type 2 Diabetes Mellitus"
+  },
+  {
+    "altNames": [],
+    "description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with chronic kidney disease.",
+    "id": "CKD_MBD",
+    "name": "Chronic Kidney Disease_Mineral Bone Disorder"
+  },
+  {
+    "altNames": [],
+    "description": "A general term that describes a disease of the heart or blood vessels.",
+    "id": "CVD",
+    "name": "Cardiovascular Disease"
+  },
+  {
+    "altNames": ["High Blood Pressure"],
+    "description": "",
+    "id": "Hypertension",
+    "name": "Hypertension"
+  },
+
+
+
+
+
+  {
+    "altNames": [],
+    "description": "",
+    "id": "",
+    "name": ""
   }
-}
+]
