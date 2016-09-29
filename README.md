@@ -62,12 +62,14 @@ being specified using the IDs of the nodes.
 
 - Labels
     - The tpe of the relationship
-        - :TypeOf - When A is a type of B (e.g. type 1 diabetes mellitus is a type of diabetes mellitus).
         - :CauseOf - When condition A can cause condition B (e.g. end stage renal failure is a cause of kidney failure).
         - :ContributesTo - When condition A is a contributory factor for condition B (e.g. acute kidney injury contibutes to acute-on-chronic renal failure).
+        - :Decreases - When condition A causes a decrease in measurement B.
+        - :Increases - When condition A causes an increase in measurement B.
+        - :TypeOf - When A is a type of B (e.g. type 1 diabetes mellitus is a type of diabetes mellitus).
 - Properties
-    - Description - A description of the relationship (including references where needed). For example, how and why condition A causes condition B.
-    - References - The IDs of the references used to determine the relationship.
+    - description - A description of the relationship (including references where needed). For example, how and why condition A causes condition B.
+    - references - The IDs of the references used to determine the relationship.
 
 ## Treatments
 Treatments are nodes.
