@@ -61,48 +61,12 @@
 
 
 
-
   {
     "altNames": [],
-    "description": "",
-    "id": "DM",
-    "name": "Diabetes Mellitus"
-  },
-  {
-    "altNames": [],
-    "description": "",
-    "id": "T1DM",
-    "name": "Type 1 Diabetes Mellitus"
-  },
-  {
-    "altNames": [],
-    "description": "",
-    "id": "T2DM",
-    "name": "Type 2 Diabetes Mellitus"
-  },
-  {
-    "altNames": [],
-    "description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with chronic kidney disease.",
+    "description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with CKD.",
     "id": "CKD_MBD",
     "name": "Chronic Kidney Disease_Mineral Bone Disorder"
   },
-  {
-    "altNames": [],
-    "description": "A general term that describes a disease of the heart or blood vessels.",
-    "id": "CVD",
-    "name": "Cardiovascular Disease"
-  },
-  {
-    "altNames": ["High Blood Pressure"],
-    "description": "",
-    "id": "Hypertension",
-    "name": "Hypertension"
-  },
-
-
-
-
-
   {
     "altNames": [],
     "description": "",
