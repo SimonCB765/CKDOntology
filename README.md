@@ -62,7 +62,7 @@ being specified using the IDs of the nodes.
 
 - Labels
     - The tpe of the relationship
-        - :CauseOf - When condition A can cause condition B (e.g. end stage renal failure is a cause of kidney failure).
+        - :CausedBy - When condition A is caused by condition B (e.g. end stage renal failure is a cause of kidney failure).
         - :ContributesTo - When condition A is a contributory factor for condition B (e.g. acute kidney injury contibutes to acute-on-chronic renal failure).
         - :Decreases - When condition A causes a decrease in measurement B.
         - :Increases - When condition A causes an increase in measurement B.
