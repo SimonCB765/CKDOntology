@@ -1,3 +1,48 @@
+Useful resources
+
+- BJRM 'What I Tell My Patients About...' - http://www.bjrm.co.uk/patient-information.aspx
+
+Next find measures, treatments, symptoms and consequences for the following conditions (esp as they relate to CVD):
+
+- Arteriosclerosis
+- Bone Pain
+- Bone Fracture
+- Bone Deformation
+- Calciphylaxis
+- CKD-MBD
+- Extraskeletal Calcification
+- Hyperparathyroidism (Secondary)
+    - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
+- Hyperphosphatemia
+- Hypocalcemia
+- Hypovitaminosis D
+- Joint Pain
+- Metastatic Calcification
+- Osteoporosis
+- Renal Osteodystrophy
+
+Find information about the following measures:
+
+- Calcium (plasma, serum, ionised serum level, etc.)
+- Parathyroid Hormone (serum)
+- Vitamin D (serum)
+    - If calcitrol level only is measured, rather than both it and calcidiol, then you're really only measuring calcitrol level without any idea of how much calcidiol you're body is producing
+        - Realy want vitamin D level (calcidiol) and activated (calcitrol)
+- (Inorganic) phosphate/phosphorus (blood, plasma, serum, etc.)
+
+Find information about the following treatments:
+
+- Calcimimetrics
+- Calcium Supplement
+- Dialysis
+- Parathyroidectomy
+- Phosphate Binders
+- Renal Transplant
+- Vitamin D Replacement Therapy
+
+
+
+
 Known Relevant Correlates
 - Hypertensive Nephrosclerosis
 - (Chronic) Glomerulonephritis
@@ -25,23 +70,16 @@ Known Relevant Correlates
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
 - inflammation (glomerulonephritis)
 - Diabetic Retinopathy
-- Hypocalcemia
 - Hematuria
 - Hyperglycemia
 - Hyperkalemia
-- Hyperparathyroidism
 - Iron Deficiency
-- Hyperphosphatemia
 - Folate (B12) Deficiency
-- Hypovitaminosis D
 - Impaired Glucose Tolerance
 - Kidney Stones
 - Family History of Kidney Disease Including Polycystic Kidneys
 - Systemic Lupus Erythematosis
 - Relative Erythropoietin Deficiency
-- Renal Osteodystrophy (Renal Bone Disease)
-- Secondary Hyperparathyroidism
-    - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
 - Rheumatoid Arthritis
 - Protein in the urine
     - Proteinuria, Microalbuminuria, etc.
@@ -124,12 +162,8 @@ Measurements (for CKD, its causes and probably any effects it has)
     - Aldosterone
     - Folate (B12)
     - Bicarbonate (serum, etc.)
-    - Calcium (plasma, serum, ionised serum level, etc.)
-    - (Inorganic) phosphate/phosphorus (blood, plasma, serum, etc.)
     - C reactive Protein (serum, etc.)
     - Framingham QRISK cardiovascular
-    - Parathyroid Hormone (serum)
-    - Vitamin D (serum)
     - Uric Acid
 
 Personal, Demographic and Socioeconomic
