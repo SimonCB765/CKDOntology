@@ -1,15 +1,21 @@
 [
   {
-    "altNames": [],
-    "description": "",
-    "id": "Renal Insufficiency",
-    "name": "Renal Insufficiency"
+    "altNames": ["Acute-on-Chronic Kidney Failure"],
+    "description": "When acute renal failure occurs in the background of pre-existing chronic kidney disease.",
+    "id": "AoCRF",
+    "name": "Acute-on-Chronic Renal Failure"
   },
   {
-    "altNames": ["Renal Failure"],
-    "description": "",
-    "id": "Kidney Failure",
-    "name": "Kidney Failure"
+    "altNames": ["Acute Kidney Failure", "Acute Renal Failure", "Acute Renal Injury"],
+    "description": "A sudden episode of kidney failure or kidney damage that happens within a few hours or a few days.",
+    "id": "AKI",
+    "name": "Acute Kidney Injury"
+  },
+  {
+    "altNames": ["Acute Kidney Tubular Necrosis"],
+    "description": "A kidney disorder involving damage to and death of the tubular epithelial cells that form the renal tubules of the kidneys.",
+    "id": "ATN",
+    "name": "Acute Tubular Necrosis"
   },
   {
     "altNames": [
@@ -18,15 +24,15 @@
       "Chronic Renal Failure",
       "Chronic Renal Insufficiency"
     ],
-    "description": "",
+    "description": "Kidney damage that occurs slowly over many years.",
     "id": "CKD",
     "name": "Chronic Kidney Disease"
   },
   {
     "altNames": [],
-    "description": "",
-    "id": "CKD S1-4",
-    "name": "Chronic Kidney Disease Stages 1 to 4"
+    "description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with CKD.",
+    "id": "CKD_MBD",
+    "name": "Chronic Kidney Disease Mineral Bone Disorder"
   },
   {
     "altNames": [
@@ -35,42 +41,20 @@
       "End-Stage Renal Disease",
       "End-Stage Renal Failure"
     ],
-    "description": "",
+    "description": "The final stage of chronic kidney disease where the kidneys are not functioning well enough to meet the needs of daily life.",
     "id": "CKD S5",
     "name": "Chronic Kidney Disease Stage 5"
   },
   {
-    "altNames": ["Acute Kidney Failure", "Acute Renal Failure", "Acute Renal Injury"],
-    "description": "",
-    "id": "AKI",
-    "name": "Acute Kidney Injury"
-  },
-  {
-    "altNames": ["Acute-on-Chronic Kidney Failure"],
-    "description": "",
-    "id": "AoCRF",
-    "name": "Acute-on-Chronic Renal Failure"
-  },
-  {
-    "altNames": ["Acute Kidney Tubular Necrosis"],
-    "description": "",
-    "id": "ATN",
-    "name": "Acute Tubular Necrosis"
-  },
-
-
-
-
-  {
-    "altNames": [],
-    "description": "The term used to describe the pathophysiological changes that occur in the vascular and skeletal system in association with CKD.",
-    "id": "CKD_MBD",
-    "name": "Chronic Kidney Disease_Mineral Bone Disorder"
+    "altNames": ["Renal Failure"],
+    "description": "Impaired kidney function in which the kidneys fail to adequately filter metabolic wastes from the blood.",
+    "id": "Kidney Failure",
+    "name": "Kidney Failure"
   },
   {
     "altNames": [],
-    "description": "",
-    "id": "",
-    "name": ""
+    "description": "Poor function of the kidneys.",
+    "id": "Renal Insufficiency",
+    "name": "Renal Insufficiency"
   }
 ]
