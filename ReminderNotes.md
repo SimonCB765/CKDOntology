@@ -4,19 +4,19 @@ Useful resources
 
 Next find measures, treatments, symptoms and consequences for the following conditions (esp as they relate to CVD):
 
--Adynamic Bone Disease
--Arteriosclerosis
--Calciphylaxis
--Extraskeletal Calcification
--Hyperparathyroid Bone Disease
--Hyperparathyroidism (Secondary)
+- Adynamic Bone Disease
+- Arteriosclerosis
+- Calciphylaxis
+- Extraskeletal Calcification
+- Hyperparathyroid Bone Disease
+- Hyperparathyroidism (Secondary)
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
--Hyperphosphatemia
--Hypocalcemia
--Hypovitaminosis D
--Metastatic Calcification
--Osteomalacia
--Renal Osteodystrophy
+- Hyperphosphatemia
+- Hypocalcemia
+- Hypovitaminosis D
+- Metastatic Calcification
+- Osteomalacia
+- Renal Osteodystrophy
 
 Find information about the following measures:
 
@@ -54,12 +54,14 @@ Adynamic usualy results as a consequence of taking medications to treat hyperpar
     - Caused by some aspect of Renal Osteodystrophy (or many aspects)
 
 
-Known Relevant Correlates:
+Likely Relevant Correlates:
 
+- Alport Syndrome
 - Diabetes
     - Causes CKD
 - Hypertension
     - Causes CKD
+- Haemolytic Uraemic Syndrome
 - Nephrosclerosis
     - Hypertensive Nephrosclerosis
 - Nephritis
@@ -69,6 +71,7 @@ Known Relevant Correlates:
 - Anemia
     - CKD causes this
 - Renovascular Disease
+    - Atherosclerotic Renovascular Disease
 - Pericarditis
     - CKD causes this
 - Cardiovascular Disease
@@ -81,7 +84,7 @@ Known Relevant Correlates:
 
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
 
-- inflammation (glomerulonephritis)
+- inflammation
 - Diabetic Retinopathy
 - Hematuria
 - Hyperglycemia
@@ -89,7 +92,6 @@ Other Correlates - No literature checks have been performed to see how these hol
 - Iron Deficiency
 - Folate (B12) Deficiency
 - Impaired Glucose Tolerance
-- Kidney Stones
 - Family History of Kidney Disease Including Polycystic Kidneys
 - Systemic Lupus Erythematosis
 - Relative Erythropoietin Deficiency
@@ -97,31 +99,23 @@ Other Correlates - No literature checks have been performed to see how these hol
 - Protein in the urine
     - Proteinuria, Microalbuminuria, etc.
 - Angina - chest pain due to restricted blood flow
-- Balkan (endemic) Nephropathy (ReadV2 K0B6. so it seems to be real)
+- Balkan (endemic) Nephropathy (ReadV2 K0B6.)
 - Urological factors that may reduce eGFR
     - UTIs?
+    - Kidney Stones
     - obstruction/lower urinary tract symptoms (from published QICKD protocol)
     - prostate disease (from published QICKD protocol)
-- Infections
-    - Pyelonephritis
-    - HIV
-    - waterborne diseases (eg, schistosomiasis, leptospirosis,scrub typhus, hantavirus, and malaria)
-    - diarrhoeal diseases (in children)
-    - Escherichia coli
-- Inherited
-    - polycystic disease
-- result of longstanding blockage to the urinary system (such as enlarged prostate or kidney stones)
-- water 
-    - Dehydration
-    - Contamination
-    - Heavy metals
-    - Organic compounds
+    - result of longstanding blockage to the urinary system (such as enlarged prostate or kidney stones)
+- Infections (CKD as risk multiplier for infectious diseases leading to greater prevalence)
+    - Pneumonia
+    - Sepsis
+    - Pulmonary infections
+- Dehydration
 - Cancer
     - Kidney cancers…
-- haemolytic-uraemic syndrome (Asia)
 - Tubular atrophy
 
-Medications
+Treatments
 
 - Angiotensin-converting enzyme (ACE) inhibitors
     - ACE inhibitors cause relaxation of blood vessels, as well as a decreased blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. They inhibit the angiotensin-converting enzyme, an important component of the renin–angiotensin–aldosterone system.
@@ -145,9 +139,6 @@ Medications
 - T2DM - Meglitinides (glinides), thiazolidinediones (glitazones), sulphonylureas (sulfonylureas), Metformin, Alpha Glucosidase Inhibitors, Amylin Analogs, Biguanides, DPP-4 Inhibitors, Incretin Mimetics, etc.
 - Anticoagulants, antiplatelets, etc.
     - Persantin, Warfarin, Clopidogrel, etc.
-
-Treatments
-
 - Iron Therapy
 - Insulin (Insulin Preparations)
 
