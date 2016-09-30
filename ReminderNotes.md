@@ -7,7 +7,6 @@ Next find measures, treatments, symptoms and consequences for the following cond
 -Adynamic Bone Disease
 -Arteriosclerosis
 -Calciphylaxis
--CKD-MBD
 -Extraskeletal Calcification
 -Hyperparathyroid Bone Disease
 -Hyperparathyroidism (Secondary)
@@ -55,7 +54,8 @@ Adynamic usualy results as a consequence of taking medications to treat hyperpar
     - Caused by some aspect of Renal Osteodystrophy (or many aspects)
 
 
-Known Relevant Correlates
+Known Relevant Correlates:
+
 - Diabetes
     - Causes CKD
 - Hypertension
@@ -80,6 +80,7 @@ Known Relevant Correlates
 
 
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
+
 - inflammation (glomerulonephritis)
 - Diabetic Retinopathy
 - Hematuria
@@ -117,16 +118,11 @@ Other Correlates - No literature checks have been performed to see how these hol
     - Organic compounds
 - Cancer
     - Kidney cancers…
-
-Really Unknown
-- Aristolochic-acid
-- chronic interstitial ﬁbrosis
 - haemolytic-uraemic syndrome (Asia)
-- interstitial ﬁbrosis
 - Tubular atrophy
-- interstitial mononuclear-cell inﬁltration
 
 Medications
+
 - Angiotensin-converting enzyme (ACE) inhibitors
     - ACE inhibitors cause relaxation of blood vessels, as well as a decreased blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. They inhibit the angiotensin-converting enzyme, an important component of the renin–angiotensin–aldosterone system.
     - Treats
@@ -151,10 +147,12 @@ Medications
     - Persantin, Warfarin, Clopidogrel, etc.
 
 Treatments
+
 - Iron Therapy
 - Insulin (Insulin Preparations)
 
 Measurements (for CKD, its causes and probably any effects it has)
+
 - CKD
     - Creatinine (serum, etc.)
         - Can be affected by creatinine generation (muscle mass and diet), tubular secretion and extrarenal removal
@@ -179,6 +177,7 @@ Measurements (for CKD, its causes and probably any effects it has)
     - Uric Acid
 
 Personal, Demographic and Socioeconomic
+
 - Age
 - Height
 - weight and BMI (obesity)
@@ -194,9 +193,6 @@ Personal, Demographic and Socioeconomic
 
 infectious diseases continue to be prevalent in low-income countries, secondary to poor sanitation, inadequate supply of safe water, and high concentrations of disease-transmitting vectors (http://www.sciencedirect.com/science/article/pii/S1548559510000388)
 
-
-
 Environmental pollution, pesticides, analgesic abuse, herbal medications, and use of unregulated food additives also contribute to the burden of chronic kidney disease in developing countries (End-Stage Renal Care in Developing Countries: The India Experience)
-
 
 Genetic factors also contribute. Variations in MYH9 and APOL1 are associated with non-diabetic chronic kidney disease in individuals of African origin (MYH9 is associated with nondiabetic end-stage renal disease in African Americans) (Genetic variation in APOL1 associates with younger age at hemodialysis initiation)
