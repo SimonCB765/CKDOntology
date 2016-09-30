@@ -1,11 +1,3 @@
-# Misc
-
-- Loading JSON data
-    - http://www.markhneedham.com/blog/2015/07/23/neo4j-loading-json-documents-with-cypher/
-    - https://neo4j.com/blog/cypher-load-json-from-url/
-
-
-
 # Database Structure
 
 A property with a * in front of it is the unique identifier by which a node is referenced.
