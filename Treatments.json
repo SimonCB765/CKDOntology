@@ -1,7 +1,32 @@
 {
   "Dialysis": {
-    "Name": "Dialysis",
-    "AltNames": [],
-    "Description": ""
+    "description": "The process of filtering wastes and extra fluid from the body by means other than the kidneys.",
+    "genericNames": [],
+    "name": "Dialysis",
+    "propNames": []
+  },
+  "Hemodialysis": {
+    "description": "Using a machine to circulate a person’s blood through a filter outside the body.",
+    "genericNames": [],
+    "name": "Hemodialysis",
+    "propNames": []
+  },
+  "Peritoneal Dialysis": {
+    "description": "Using the lining of the abdomen to filter a person’s blood inside the body.",
+    "genericNames": [],
+    "name": "Peritoneal Dialysis",
+    "propNames": []
+  },
+  "Renal Replacement Therapy": {
+    "description": "Therapy that replaces the normal blood-filtering function of the kidneys.",
+    "genericNames": [],
+    "name": "Renal Replacement Therapy",
+    "propNames": []
+  },
+  "Renal Transplant": {
+    "description": "The organ transplant of a kidney into a patient",
+    "genericNames": [],
+    "name": "Renal Transplant",
+    "propNames": []
   }
 }
