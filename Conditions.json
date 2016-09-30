@@ -50,11 +50,5 @@
     "description": "Impaired kidney function in which the kidneys fail to adequately filter metabolic wastes from the blood.",
     "id": "Kidney Failure",
     "name": "Kidney Failure"
-  },
-  {
-    "altNames": [],
-    "description": "Poor function of the kidneys.",
-    "id": "Renal Insufficiency",
-    "name": "Renal Insufficiency"
   }
 ]

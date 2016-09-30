@@ -3,27 +3,6 @@
     "Description": "",
     "Label": "TypeOf",
     "References": [],
-    "Source": "Kidney Failure",
-    "Target": "Renal Insufficiency"
-  },
-  {
-    "Description": "",
-    "Label": "TypeOf",
-    "References": [],
-    "Source": "CKD",
-    "Target": "Renal Insufficiency"
-  },
-  {
-    "Description": "",
-    "Label": "TypeOf",
-    "References": [],
-    "Source": "CKD S1-4",
-    "Target": "CKD"
-  },
-  {
-    "Description": "",
-    "Label": "TypeOf",
-    "References": [],
     "Source": "CKD S5",
     "Target": "CKD"
   },
@@ -36,24 +15,10 @@
   },
   {
     "Description": "",
-    "Label": "TypeOf",
-    "References": [],
-    "Source": "AKI",
-    "Target": "Renal Insufficiency"
-  },
-  {
-    "Description": "",
     "Label": "CausedBy",
     "References": [],
     "Source": "Kidney Failure",
     "Target": "AKI"
-  },
-  {
-    "Description": "",
-    "Label": "TypeOf",
-    "References": [],
-    "Source": "AoCRF",
-    "Target": "Renal Insufficiency"
   },
   {
     "Description": "",
@@ -82,12 +47,5 @@
     "References": [],
     "Source": "AKI",
     "Target": "ATN"
-  },
-  {
-    "Description": "",
-    "Label": "",
-    "References": [],
-    "Source": "",
-    "Target": ""
   }
 ]
