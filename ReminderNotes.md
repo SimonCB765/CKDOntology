@@ -54,7 +54,7 @@ Adynamic usualy results as a consequence of taking medications to treat hyperpar
     - Caused by some aspect of Renal Osteodystrophy (or many aspects)
 
 
-Likely Relevant Correlates:
+Likely Or Proven Correlates:
 
 - Alport Syndrome
 - Diabetes
@@ -64,14 +64,20 @@ Likely Relevant Correlates:
 - Haemolytic Uraemic Syndrome
 - Nephrosclerosis
     - Hypertensive Nephrosclerosis
-- Nephritis
-    - Chronic/Acute Interstitial Nephritis
-    - Glomerulonephritis
-        - Infection related chronic Glomerulonephritis is a major cause of CKD in sub-Saharan Africa (http://www.sciencedirect.com/science/article/pii/S0272638607015995)
+- Nephrosis/Nephrotic Syndrome
+    - This may be a consequence of CKD or some of its correlates, but it seems unlikely to be a cause
+    - http://www.pathophys.org/nephrotic/
 - Anemia
     - CKD causes this
-- Renovascular Disease
-    - Atherosclerotic Renovascular Disease
+    - https://www.kidneyresearchuk.org/health-information/anaemia-and-kidney-disease
+- Infective, obstructive and reflux nephropathies
+- Arteriopathic renal disease
+- Multisystem diseases with potential kidney involvement
+    - systemic lupus erythematosus (SLE).
+- Neoplasms.
+- Myeloma.
+- Family history of stage 5 CKD or hereditary kidney disease
+    - polycystic kidneys.
 - Pericarditis
     - CKD causes this
 - Cardiovascular Disease
@@ -92,20 +98,12 @@ Other Correlates - No literature checks have been performed to see how these hol
 - Iron Deficiency
 - Folate (B12) Deficiency
 - Impaired Glucose Tolerance
-- Family History of Kidney Disease Including Polycystic Kidneys
-- Systemic Lupus Erythematosis
 - Relative Erythropoietin Deficiency
 - Rheumatoid Arthritis
 - Protein in the urine
     - Proteinuria, Microalbuminuria, etc.
 - Angina - chest pain due to restricted blood flow
 - Balkan (endemic) Nephropathy (ReadV2 K0B6.)
-- Urological factors that may reduce eGFR
-    - UTIs?
-    - Kidney Stones
-    - obstruction/lower urinary tract symptoms (from published QICKD protocol)
-    - prostate disease (from published QICKD protocol)
-    - result of longstanding blockage to the urinary system (such as enlarged prostate or kidney stones)
 - Infections (CKD as risk multiplier for infectious diseases leading to greater prevalence)
     - Pneumonia
     - Sepsis
@@ -114,6 +112,7 @@ Other Correlates - No literature checks have been performed to see how these hol
 - Cancer
     - Kidney cancers…
 - Tubular atrophy
+- renal papillary necrosis
 
 Treatments
 
@@ -129,6 +128,7 @@ Treatments
     - Vasodilators
     - Diuretics
         - Thiazide, loop, potassium sparing, potassium sparing compound
+        - http://www.pathophys.org/diuretics/
 - drugs/therapy that affect renal function (e.g. NSAIDs)
 - Calcium channel blocker
 - Erythropoietin Stimulating Agents
