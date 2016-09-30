@@ -4,22 +4,20 @@ Useful resources
 
 Next find measures, treatments, symptoms and consequences for the following conditions (esp as they relate to CVD):
 
-- Arteriosclerosis
-- Bone Pain
-- Bone Fracture
-- Bone Deformation
-- Calciphylaxis
-- CKD-MBD
-- Extraskeletal Calcification
-- Hyperparathyroidism (Secondary)
+-Adynamic Bone Disease
+-Arteriosclerosis
+-Calciphylaxis
+-CKD-MBD
+-Extraskeletal Calcification
+-Hyperparathyroid Bone Disease
+-Hyperparathyroidism (Secondary)
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
-- Hyperphosphatemia
-- Hypocalcemia
-- Hypovitaminosis D
-- Joint Pain
-- Metastatic Calcification
-- Osteoporosis
-- Renal Osteodystrophy
+-Hyperphosphatemia
+-Hypocalcemia
+-Hypovitaminosis D
+-Metastatic Calcification
+-Osteomalacia
+-Renal Osteodystrophy
 
 Find information about the following measures:
 
@@ -42,12 +40,32 @@ Find information about the following treatments:
 
 
 
+Bone Stuff
+http://www.kdigo.org/ControConf/CKD-MBD%202013/Presentations/CKD-MBD%20and%20Osteoporosis%20-%20S.%20Ott.pdf
+http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
+I believe that hyperparathyroid bone disease is essentially high turnover or high formation bone disease as the high PTH level increases osteoclast and osteoblast activity
+Adynamic usualy results as a consequence of taking medications to treat hyperparathyroid bone disease
+- Bone Pain
+    - Caused by some aspect of Renal Osteodystrophy (or many aspects)
+- Bone Fracture
+    - Caused by some aspect of Renal Osteodystrophy (or many aspects)
+- Bone Deformation
+    - Caused by some aspect of Renal Osteodystrophy (or many aspects)
+- Joint Pain
+    - Caused by some aspect of Renal Osteodystrophy (or many aspects)
+
 
 Known Relevant Correlates
-- Hypertensive Nephrosclerosis
-- (Chronic) Glomerulonephritis
-    - Infection related chronic Glomerulonephritis is a major cause of CKD in sub-Saharan Africa (http://www.sciencedirect.com/science/article/pii/S0272638607015995)
-- Chronic Interstitial Nephritis
+- Diabetes
+    - Causes CKD
+- Hypertension
+    - Causes CKD
+- Nephrosclerosis
+    - Hypertensive Nephrosclerosis
+- Nephritis
+    - Chronic/Acute Interstitial Nephritis
+    - Glomerulonephritis
+        - Infection related chronic Glomerulonephritis is a major cause of CKD in sub-Saharan Africa (http://www.sciencedirect.com/science/article/pii/S0272638607015995)
 - Anemia
     - CKD causes this
 - Renovascular Disease
@@ -57,12 +75,6 @@ Known Relevant Correlates
     - CKD causes this
     - Heart attack, stroke or Cerebrovascular Accident, (congestive) heart failure, ischemic heart disease, COPD (is this CVD?), Peripheral Arterial Disease, Peripheral vascular diseases, Transient Ischaemic Attack, coronary heart disease ("Coronary Artery Disease", "Ischemic Heart Disease"), etc. etc.
     - Risk factors for CVD like: smoking status; lipid management; proteinuria; anaemia; glycated haemoglobin and microalbuminuria in people with diabetes; serum cholesterol and total cholesterol: HDL ratio; BMI, alcohol consumption; urinalysis and total protein creatinine ratio; haemoglobin concentration
-- Acute Kidney Injury
-    - http://www.worldkidneyday.org/faqs/topics/acute-kidney-injury/
-- Renal Replacement Therapies
-    - Dialysis (hemodialysis and peritoneal dialysis)
-    - Kidney Transplant
-- End Stage Renal Disease
 
 
 

@@ -30,30 +30,28 @@
 
 # Relationships
 
-## Conditions
+### Conditions
+Adynamic Bone Disease
 Arteriosclerosis
-Bone Pain
-Bone Fracture
-Bone Deformation
 Calciphylaxis
 CKD-MBD
 Extraskeletal Calcification
+Hyperparathyroid Bone Disease
 Hyperparathyroidism (Secondary)
 Hyperphosphatemia
 Hypocalcemia
 Hypovitaminosis D
-Joint Pain
 Metastatic Calcification
-Osteoporosis
+Osteomalacia
 Renal Osteodystrophy
 
-## Measurements
+### Measurements
 Calcium Level
 Parathyroid Hormone Level
 Phosphate Level
 Vitamin D Level
 
-## Treatments
+### Treatments
 Calcimimetrics
 Calcium Supplement
 Dialysis
@@ -62,11 +60,9 @@ Phosphate Binders
 Renal Transplant
 Vitamin D Replacement Therapy
 
-## Edges
+### Edges
+Adynamic Bone Disease -[:TypeOf]-> Renal Osteodystrophy
 Arteriosclerosis -[:CausedBy]-> Calciphylaxis
-Bone Pain -[:CausedBy]-> Renal Osteodystrophy
-Bone Deformation -[:CausedBy]-> Renal Osteodystrophy
-Bone Fracture -[:CausedBy]-> Renal Osteodystrophy
 Calcimimetrics -[:Treats]-> Hyperparathyroidism (Secondary)
 Calciphylaxis -[:TypeOf]-> Metastatic Calcification
 Calciphylaxis -[:CausedBy]-> Hyperphosphatemia
@@ -76,13 +72,14 @@ Calcium Supplement -[:Treats]-> Hypocalcemia
 CKD-MBD -[:CausedBy]-> CKD
 Dialysis -[:Treats]-> Hyperphosphatemia
 Extraskeletal Calcification -[:CausedBy]-> CKD-MBD
+Hyperparathyroid Bone Disease -[:TypeOf]-> Renal Osteodystrophy
 Hyperparathyroidism (Secondary) -[:CausedBy]-> Hypocalcemia
 Hyperphosphatemia -[:CausedBy]-> CKD-MBD
 Hypocalcemia -[:CausedBy]-> CKD-MBD
 Hypovitaminosis D -[:CausedBy]-> CKD-MBD
-Joint Pain -[:CausedBy]-> Renal Osteodystrophy
 Metastatic Calcification -[:TypeOf]-> Extraskeletal Calcification
-Osteoporosis -[:CausedBy]-> Bone Deformation
+Osteomalacia -[:CausedBy]-> Hypovitaminosis D
+Osteomalacia -[:TypeOf]-> Renal Osteodystrophy
 Parathyroidectomy -[:Treats]-> Hyperparathyroidism (Secondary)
 Parathyroid Hormone Level - [:IncreasedBy]-> CKD-MBD
 Phosphate Binders -[:Treats]-> Hyperphosphatemia
@@ -95,6 +92,7 @@ Vitamin D Replacement Therapy -[:Treats]-> Hypovitaminosis D
 ## References
 
 http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=101&aid=812
+http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
 http://www.renal.org/guidelines/modules/ckd-mineral-and-bone-disorders-(ckd-mbd)#sthash.J0a59iPA.dpbs
 http://www.medscape.com/viewarticle/770604
 http://cjasn.asnjournals.org/content/5/Supplement_1/S1.full
