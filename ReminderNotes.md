@@ -8,6 +8,14 @@ Next find measures, treatments, symptoms and consequences for the following cond
 - Arteriosclerosis
 - Calciphylaxis
 - Extraskeletal Calcification
+- Glomerular Disease
+    - https://www.kidney.org/sites/default/files/12-10-6139_glomerulardisease.pdf
+    - https://www.niddk.nih.gov/health-information/health-topics/kidney-disease/glomerular-diseases/Pages/facts.aspx
+    - http://www.uptodate.com/contents/glomerular-disease-overview-beyond-the-basics
+    - Primary glomerular disease such as focal segmental glomerulosclerosis and IgA nephropathy (or nephritis)
+    - Secondary glomerular disease such as diabetic nephropathy and lupus nephritis
+    - Glomerulonephritis
+        - Definitely leads to CKD - (a family of different forms of kidney inflammation) can lead to CKD. These conditions affect the glomeruli, the fine filters in our kidneys. At one time, these diseases were collectively known as Bright’s Disease – before modern research identified them as separate conditions.
 - Hyperparathyroid Bone Disease
 - Hyperparathyroidism (Secondary)
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.

@@ -1,20 +1,39 @@
-# Names
+# Alternate Names
+Chronic Kidney Failure
+Chronic Renal Disease
+Chronic Renal Failure
+Chronic Renal Insufficiency
+
+# Definition
+Chronic kidney disease (CKD) is a progressive loss of renal function over time, defined by a decrease in glomerular filtration rate (GFR) and creatinine clearance. A diagnosis of CKD requires one of two things according to KDIGO guidelines:
+
+1. Kidney damage for at least 3 months, as defined by structural or functional abnormalities of the kidney, with or without decreased GFR.
+2. GFR < 60 mL/min/1.73m2 for at least 3 months, with or without kidney damage.
+
+CKD can also be staged according to these criteria. Staging definitions are:
+
+1. Stage 1: Kidney damage with normal or increased GFR (GFR > 90 mL/min/1.73 m2)
+2. Stage 2: Mild reduction in GFR (GFR in the range 60-89 mL/min/1.73 m2)
+3. Stage 3: Moderate reduction in GFR (GFR in the range 30-59 mL/min/1.73 m2)
+4. Stage 4: Severe reduction in GFR (GFR in the range 15-29 mL/min/1.73 m2)
+5. Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
 
 # Causes and Consequences
 
-- Chronic kidney disease is kidney damage that occurs slowly over many years, often due to diabetes or high blood pressure. Once damaged, the kidneys can’t filter blood as they should. This damage can cause wastes to build up in the body and other problems that can harm a person’s health, including mineral and bone disorder.
-- http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
-- https://www.kidneyresearchuk.org/health-information/chronic-kidney-disease
-- http://www.pathophys.org/ckd/
+- Many causes of CKD exists. However, the most prevalent causes are hypertension, diabetes, glomerular diseases/disorders (such as glomerulonephritis) and urinary tract obstructions.
+- Causes
+    - Hypetension
+    - Diabetes
+    - Glomerular Disease/Disorder
+    - Urinary Tract Obstructions
+
+
 
 - Causes
-    - The most common recognised cause of CKD is diabetes mellitus. Others include idiopathic (i.e. unknown cause, often associated with small kidneys on renal ultrasound), hypertension, and glomerulonephritis.[20] Together, these cause about 75% of all adult cases.
-    
     - Hypertension - over time, this can put strain on the small blood vessels in the kidneys and stop the kidneys working properly
     - diabetes – too much glucose in your blood can damage the tiny filters in the kidneys
     - high cholesterol – this can cause a build-up of fatty deposits in the blood vessels supplying your kidneys, which can make it harder for them to work properly
     - infection
-    - glomerulonephritis – kidney inflammation
     - inherited
         - polycystic kidney disease – an inherited condition where growths called cysts develop in the kidneys
     - Urological factors that may reduce eGFR
@@ -24,7 +43,6 @@
         - result of longstanding blockage to the urinary system (such as enlarged prostate or kidney stones)
         - blockages in the flow of urine – for example, from recurrent kidney stones or an enlarged prostate (prostate disease)
     - long-term, regular use of certain medicines – such as lithium and non-steroidal anti-inflammatory drugs (NSAIDs)
-    - Chronic pylonephritis is a persistent infection of the kidneys – damage can be caused that contributes to CKD and eventual kidney failure.
     - Vascular disease includes large vessel disease such as bilateral renal artery stenosis and small vessel disease such as ischemic nephropathy, hemolytic-uremic syndrome, and vasculitis.
     - Glomerular disease comprises a diverse group and is classified into:
         - Primary glomerular disease such as focal segmental glomerulosclerosis and IgA nephropathy (or nephritis)
@@ -35,15 +53,12 @@
     - Nephritis
         - Duno if I should assume that these can cause CKD...they can cause permanent damage so presumably can drop your eGFR low enough and for long enough to count as CKD
         - Pyelonephritis
+        - Chronic pylonephritis is a persistent infection of the kidneys – damage can be caused that contributes to CKD and eventual kidney failure.
         - (Tubulo-)Interstitial Nephritis
             - In most cases caused by a drug.
             - Acute will often recover function..either way it is acute not chronic
             - Chronic has no cure
             - I am assuming that chronic (and acute) can cause CKD as the eGFR can drop permanently
-        - Glomerulonephritis
-            - Definitely leads to CKD - (a family of different forms of kidney inflammation) can lead to CKD. These conditions affect the glomeruli, the fine filters in our kidneys. At one time, these diseases were collectively known as Bright’s Disease – before modern research identified them as separate conditions.
-            - Infection related chronic Glomerulonephritis is a major cause of CKD in sub-Saharan Africa (http://www.sciencedirect.com/science/article/pii/S0272638607015995)
-            - Lupus nephritis
 
 - Signs and Symptoms
     - Blood pressure is increased due to fluid overload and production of vasoactive hormones created by the kidney via the renin-angiotensin system, increasing one's risk of developing hypertension and/or suffering from congestive heart failure.
@@ -55,6 +70,10 @@
     - Hypocalcemia, due to 1,25 dihydroxyvitamin D3 deficiency (caused by stimulation of FGF-23 and reduction of renal mass),[12] and resistance to the calcemic action of parathyroid hormone.[13] Osteocytes are responsible for the increased production of FGF-23, which is a potent inhibitor of the enzyme 1-alpha-hydroxylase (responsible for the conversion of 25-hydroxycholecalciferol into 1,25 dihydroxyvitamin D3).[14] Later, this progresses to secondary hyperparathyroidism, renal osteodystrophy, and vascular calcification that further impairs cardiac function. An extreme consequence is the occurrence of the rare condition named calciphylaxis.[15]
     - Metabolic acidosis (due to accumulation of sulfates, phosphates, uric acid etc.) may cause altered enzyme activity by excess acid acting on enzymes; and also increased excitability of cardiac and neuronal membranes by the promotion of hyperkalemia due to excess acid (acidemia).[17] Acidosis is also due to decreased capacity to generate enough ammonia from the cells of the proximal tubule.[8]
     - Iron deficiency anemia, which increases in prevalence as kidney function decreases, is especially prevalent in those requiring haemodialysis. It is multifactoral in cause, but includes increased inflammation, reduction in erythropoietin, and hyperuricemia leading to bone marrow suppression.
+    - Gout
+        - Gout may occur in otherwise healthy people. However, patients with CKD suffer gout more commonly because they often have high levels of uric acid (or urate) in their blood. This is mainly because their kidneys are less effective at removing uric acid from their blood. Patients with CKD may also take medicines (such as water tablets or diuretics) or have other medical conditions (such as high blood pressure) that lead to higher levels of uric acid. The uric acid forms crystals within the patient’s joints. These crystals lead to inflammation and the affected joint becomes hot, red and swollen. Gout can be extremely painful. Any joint may be affected but the big toe is the most common site.
+        - Although non-steroidal anti-inflammatory drugs, such as ibuprofen (Brufen®, Abbott, UK) or diclofenac (Voltarol®, Novartis, UK) are the most common treatment for gout in patients without kidney disease, they should be avoided in patients with CKD. A tablet called colchicine is often used instead. This is a very effective treatment for gout, but some patients find that it causes diarrhoea, in which case it should be stopped. If possible, colchicine tablets should be taken at the very beginning of an attack. A short course of steroids (such as prednisolone tablets) may also be used.
+        - Dietitians can help patients reduce the amount of uric acid they ingest in their food. Patients with gout should reduce their consumption of beer, wine, yeasts (for example, Marmite®), red meats (especially liver) and certain fish (particularly anchovies, herring and mackerel). The drugs used to treat acute attacks of gout will not help to prevent further episodes. If the attacks become frequent, medications to lower the levels of uric acid in the blood might be considered; the most common of which is called allopurinol
     
 - Consequnces
     - Renovascular Disease
@@ -65,8 +84,17 @@
 
 - Tests/Diagnoses
     - blood test
-        - creatinine
-        - eGFR
+        - Creatinine (eGFR)
+        - Urea
+        - Sodium
+        - Potassium
+        - Calcium
+        - Phosphate
+        - Bicarbonate
+        - Cholesterol
+        - Total protein
+        - Albumin
+        - Glucose (a ‘fasting’ sample)
     - urine test
         - albumin and creatinine in your urine – known as the albumin:creatinine ratio, or ACR
         - blood in urine
@@ -90,6 +118,15 @@
     
 
 # References
+
+- CKD
+    - General information (causes, tests, treatments, etc.)
+        - http://www.pathophys.org/ckd/
+        - https://www.kidneyresearchuk.org/health-information/chronic-kidney-disease
+    - Tests
+        - http://www.edren.org/pages/edreninfo/blood-tests-in-kidney-disease.php
+- Gout
+    - file:///C:/Users/Simon/Downloads/JournalArchiveArticle%20(7).PDF
 
 # Relationships
 
