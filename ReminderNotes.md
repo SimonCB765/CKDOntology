@@ -7,6 +7,10 @@ Next find measures, treatments, symptoms and consequences for the following cond
 - Adynamic Bone Disease
 - Arteriosclerosis
 - Calciphylaxis
+- Diabetes
+    - T1DM
+    - T2DM
+    - Diabetic Retinopathy
 - Extraskeletal Calcification
 - Glomerular Disease
     - https://www.kidney.org/sites/default/files/12-10-6139_glomerulardisease.pdf
@@ -20,6 +24,7 @@ Next find measures, treatments, symptoms and consequences for the following cond
 - Hyperparathyroidism (Secondary)
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
 - Hyperphosphatemia
+- Hypertension
 - Hypocalcemia
 - Hypovitaminosis D
 - Metastatic Calcification
@@ -65,10 +70,6 @@ Adynamic usualy results as a consequence of taking medications to treat hyperpar
 Likely Or Proven Correlates:
 
 - Alport Syndrome
-- Diabetes
-    - Causes CKD
-- Hypertension
-    - Causes CKD
 - Haemolytic Uraemic Syndrome
 - Nephrosclerosis
     - Hypertensive Nephrosclerosis
@@ -80,14 +81,12 @@ Likely Or Proven Correlates:
     - https://www.kidneyresearchuk.org/health-information/anaemia-and-kidney-disease
 - Infective, obstructive and reflux nephropathies
 - Arteriopathic renal disease
-- Multisystem diseases with potential kidney involvement
-    - systemic lupus erythematosus (SLE).
-- Neoplasms.
-- Myeloma.
-- Family history of stage 5 CKD or hereditary kidney disease
-    - polycystic kidneys.
+- Neoplasms
+- Myeloma
+- Renal papillary necrosis
 - Pericarditis
-    - CKD causes this
+    - CKD causes this?
+    - This causes angina
 - Cardiovascular Disease
     - CKD causes this
     - Heart attack, stroke or Cerebrovascular Accident, (congestive) heart failure, ischemic heart disease, COPD (is this CVD?), Peripheral Arterial Disease, Peripheral vascular diseases, Transient Ischaemic Attack, coronary heart disease ("Coronary Artery Disease", "Ischemic Heart Disease"), etc. etc.
@@ -99,7 +98,6 @@ Likely Or Proven Correlates:
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
 
 - inflammation
-- Diabetic Retinopathy
 - Hematuria
 - Hyperglycemia
 - Hyperkalemia
@@ -120,7 +118,6 @@ Other Correlates - No literature checks have been performed to see how these hol
 - Cancer
     - Kidney cancers…
 - Tubular atrophy
-- renal papillary necrosis
 
 Treatments
 
