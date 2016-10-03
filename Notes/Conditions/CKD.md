@@ -18,14 +18,26 @@ CKD can also be staged according to these criteria. Staging definitions are:
 4. Stage 4: Severe reduction in GFR (GFR in the range 15-29 mL/min/1.73 m2)
 5. Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
 
+# Progression
+
+http://www.edren.org/pages/edreninfo/ckd-chronic-renal-failure-and-its-progression.php
+http://jasn.asnjournals.org/content/17/11/2964.full
+http://ndt.oxfordjournals.org/content/22/suppl_9/ix26.full
+http://archinte.jamanetwork.com/article.aspx?articleid=215760
+https://www.scribd.com/doc/306939098/8-Progression-in-Chronic-Kidney-Disease
+http://jasn.asnjournals.org/content/20/6/1199.full
+
+CKD may be caused by a wide range of insults to renal function. However, despite the wide range of pathological process that may induce renal injury, a substantial loss of nephrons provokes a common response characterised clinically by systemic hypertension, proteinuria and a progressive decline in GFR and patho-physiologically by progressive interstitial fibrosis, peritubular capillary loss with hypoxia and destruction of functioning nephrons because of tubular atrophy [1].
+
 # Causes and Consequences
 
-- Many causes of CKD exists. However, the most prevalent causes are hypertension, diabetes, glomerular diseases/disorders (such as glomerulonephritis) and urinary tract obstructions.
+- Many causes of CKD exist. However, the most prevalent causes are hypertension, diabetes, glomerular diseases/disorders (such as glomerulonephritis) and urinary tract obstructions.
 - Causes
     - Hypetension
     - Diabetes
     - Glomerular Disease/Disorder
     - Urinary Tract Obstructions
+
 
 
 
@@ -39,17 +51,16 @@ CKD can also be staged according to these criteria. Staging definitions are:
     - Urological factors that may reduce eGFR
         - Kidney Stones
         - obstruction/lower urinary tract symptoms (from published QICKD protocol)
+        - Obstructive nephropathy is exemplified by bilateral kidney stones and diseases of the prostate.
         - prostate disease (from published QICKD protocol)
         - result of longstanding blockage to the urinary system (such as enlarged prostate or kidney stones)
         - blockages in the flow of urine – for example, from recurrent kidney stones or an enlarged prostate (prostate disease)
     - long-term, regular use of certain medicines – such as lithium and non-steroidal anti-inflammatory drugs (NSAIDs)
     - Vascular disease includes large vessel disease such as bilateral renal artery stenosis and small vessel disease such as ischemic nephropathy, hemolytic-uremic syndrome, and vasculitis.
-    - Glomerular disease comprises a diverse group and is classified into:
-        - Primary glomerular disease such as focal segmental glomerulosclerosis and IgA nephropathy (or nephritis)
-        - Secondary glomerular disease such as diabetic nephropathy and lupus nephritis
-    - Congenital disease such as polycystic kidney disease.
+    - Hereditary and congenital
+        - Family history (e.g. of stage 5 CKD)
+        - e.g. polycystic kidney disease.
     - Tubulointerstitial disease includes drug- and toxin-induced chronic tubulointerstitial nephritis, and reflux nephropathy.
-    - Obstructive nephropathy is exemplified by bilateral kidney stones and diseases of the prostate.
     - Nephritis
         - Duno if I should assume that these can cause CKD...they can cause permanent damage so presumably can drop your eGFR low enough and for long enough to count as CKD
         - Pyelonephritis
@@ -83,6 +94,7 @@ CKD can also be staged according to these criteria. Staging definitions are:
     - CVD
 
 - Tests/Diagnoses
+    - http://www.edren.org/pages/edreninfo/blood-tests-in-kidney-disease.php
     - blood test
         - Creatinine (eGFR)
         - Urea
