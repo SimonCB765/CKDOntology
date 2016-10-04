@@ -27,6 +27,8 @@ While the rate of progression varies substantially between patients, CKD is char
 
 
 - Intra-glomerular Hemodynamics
+    - [ref][AbbateProgression]
+        - Independent of the underlying causes, chronic proteinuric glomerulopathies have in common a sustained or permanent loss of selectivity of the glomerular barrier to protein filtration. Glomerular sclerosis is the progressive lesion beginning at the glomerular capillary wall, the site of abnormal filtration of plasma proteins. Injury is transmitted to the interstitium favoring the self-destruction of nephrons and eventually of the kidney.
     - [ref][MetcalfeProgression]
         - The loss of sufficient renal functional units (nephrons) from whatever insult, puts into place haemodynamic factors that perpetuate renal dysfunction. Indirect studies in humans strongly indicate a very similar response to those that are demonstrated in many animal models of progressive CKD, with increased intraglomerular pressure, glomerular hypertrophy and compensatory glomerular hyperfiltration.
         - The compensatory response to nephron loss of hyperfiltration in the spared nephrons, in an attempt to maintain GFR, leads to glomerular injury and the finding on renal biopsy examination of secondary glomerulosclerosis.
@@ -42,6 +44,8 @@ While the rate of progression varies substantially between patients, CKD is char
         - Early diabetic nephropathy is well known to be associated with an elevated GFR.38- 40 Experimentally, increased glomerular capillary hydraulic pressure and hyperfiltration occur (despite normal systemic pressures) due to a proportionally greater reduction in the afferent relative to efferent arteriolar resistance.41 Indirect measurements suggest that glomerular capillary hypertension is present in human patients with diabetes as well, and there is also a correlation between urine albumin excretion and the glomerular pressure but not systemic pressure. Thus, as in the remnant kidney model, the glomerular hypertension in diabetic nephropathy itself propagates chronic GFR decline, at least partly by increasing protein leakage across the glomerular capillaries into the Bowman space.42
 - Tubulo-interstitial Disease
     - Tubulointerstitial disease includes drug- and toxin-induced chronic tubulointerstitial nephritis, and reflux nephropathy.
+    - [ref][AbbateProgression]
+        - Several lines of evidence suggested a role of glomerular ultrafiltrate of plasma proteins or protein-associated factors in chronic tubulointerstitial damage.
     - [ref][MetcalfeProgression]
         - Impairment of kidney function correlates better with the degree of tubulo-interstitial injury and fibrosis than with histologically evident glomerular injury. Interstitial fibrosis results from increased synthesis and decreased breakdown of ECM [17].
         - In CKD, the balance between cell proliferation and apoptosis is disordered with excessive apoptosis of normal glomerular and tubular epithelial cells. Abnormally abundant apoptotic stimuli such as TGF-β, tumour necrosis factor (TNF), Fas ligand (FasL) and interferon-α result in increased cell death [18,19]. Tissue hypoxia from decreased perfusion of the microvasculature also stimulates FasL-mediated apoptosis. Hypoxia may be a cause as well as an effect of the progression of CKD; intertubular capillaries are reduced in CKD of all causes, an effect exacerbated by glomerular sclerosis. Increased interstitium also diminishes capillary perfusion of the tubules.
@@ -61,6 +65,14 @@ While the rate of progression varies substantially between patients, CKD is char
         - Proteinuria occurs as a result of glomerular capillary hypertension and damage to the permeability barrier in the glomerulus. Protein leaking across the glomerulus is taken up by the proximal tubule cells by endocytosis. This causes protein overload on the proximal tubular cells, leading to increased activation of the intrarenal angiotensin-converting enzyme (ACE)54 and also, either directly or via activation of transcription factors,55 to abnormal production of the following cytokines: ET-1, monocyte chemoattractant protein 1, and RANTES (regulated on activation, normal T-cell expressed and secreted).56 The cytokines favor fibrosis, apoptosis, and monocytic infiltration, further propagating the process.
         - In proteinuric animals, there is also direct translocation of growth factors such as TGF-β and hepatocyte growth factor directly from plasma into tubular fluid. These then interact with receptors located at the apical membrane of tubular cells to promote interstitial fibrosis.57,58
         - Consistent with its role in pathophysiology, proteinuria is a strong predictor of clinical progression of renal disease. The rapidity of GFR decline is proportional to the severity of proteinuria.67
+    - [ref][AbbateProgression]
+        - This review’s main focus is on underlying mechanisms of tubulointerstitial injury that are activated by ultrafiltered protein load of tubular epithelial cells.
+        - The strong predictive value of proteinuria in chronic nephropathies now is firmly established. Baseline proteinuria was an independent predictor of renal outcome in patients with type 1 diabetes and nephropathy (1) and in patients who did not have diabetes and entered the Modification of Diet in Renal Disease (MDRD) study (2). In the Ramipril Efficacy In Nephropathy (REIN) trial (3), urinary protein excretion was the only baseline variable that correlated significantly with GFR decline and progression of nondiabetic chronic proteinuric nephropathies to ESRD. Similar evidence was provided recently in patients with type 2 diabetes and overt nephropathy (4). Other studies corroborated these data and extended the predictive value of proteinuria to risks for overall or cardiovascular mortality (5,6).
+        - Finding that the rate of GFR decline correlated negatively with proteinuria reduction and positively with residual proteinuria provided further evidence for a pathogenetic role of proteinuria (9).
+        - In progressive nephropathies, severe dysfunction of the glomerular capillary barrier to circulating proteins causes protein overload of tubular epithelial cells and intrarenal activation of complement that is responsible for spreading of injury to the tubulointerstitium.
+    - [ref][RusterProteinuria]
+        - Besides hypertension, proteinuria is one of the most important risk factors for the progression of renal diseases. As outlined in detail in the accompanying article by Remuzzi et al., increased tubular absorption of filtered proteins induces tubulointerstitial inflammation, ultimately resulting in tubular atrophy, interstitial fibrosis, and loss of renal function.
+        - The RAAS plays an important role in many of the pathophysiologic processes that are associated with proteinuria. First, AngII is a mediator of proteinuria. It preferentially raises efferent glomerular arteriole resistance. AngII induces TGF-β1 in the various renal cells (25). Sharma et al. (26) recently showed that TGF-β1 impairs the autoregulation by afferent arterioles. Because afferent arterioles respond to an increase in arterial pressure with vasoconstriction, impaired autoregulation in the presence of TGF-β1 leads to an elevation in transcapillary pressure, particularly during systemic hypertension. Thus, AngII directly (efferent vasoconstriction) and indirectly (TGF-β1–mediated impaired afferent arteriole autoregulation) enhances capillary filtration pressure.
 - Hyperlipidaemia
     - [ref][MetcalfeProgression]
         - Hyperlipidaemia is common in patients with CKD, particularly those with heavy proteinuria. In addition to the adverse effects upon systemic atherosclerosis, there is some evidence that hyperlipidaemia may also have an adverse impact upon progression of CKD [30,31]. Hyperlipidaemia activates mesangial cells, leading to mesangial proliferation, production of macrophage chemotactic factors, stimulation of reactive oxygen species and stimulation of growth factor and cytokine release. All of these factors may then contribute to renal injury and progression of CKD.
@@ -76,6 +88,11 @@ While the rate of progression varies substantially between patients, CKD is char
 - Hypoxia
     - [ref][YuProgression]
         - Hypoxia has been regarded as a potential cause as well as effect of progression. There is loss of the postglomerular intertubular capillaries in chronic renal failure of various causes.49 Glomerular sclerosis is thought to contribute to this by decreasing downstream tubular blood flow. Expansion of the interstitial space may also diminish capillary perfusion of the tubules.50 The resultant hypoxia favors release of proinflammatory and profibrotic cytokines. Experimentally, this is associated with increased expression of the antiangiogenic factor thrombospondin 1 and decreased expression of the proangiogenic factor VEGF, which may impair angiogenesis and further propagate the hypoxia.33
+- Aldosterone?
+    - [ref][RusterProteinuria]
+        - The classic understanding of aldosterone as a hormone that is produced in the adrenal cortex, which is involved in the reabsorption of sodium and the secretion of potassium and protons in the collecting duct, needs to be extended.
+        - In various animal models of renal diseases, aldosterone is involved in endothelial dysfunction, inflammation, proteinuria, and fibrosis (48).
+        - Aldosterone increases the effect of AngII, induces the generation of reactive oxygen species, and leads to an acceleration of the AngII-induced activation of mitogen-activated protein kinases (49).
 
 
 
@@ -171,6 +188,7 @@ http://www.pathophys.org/ckd/
         - albumin and creatinine in your urine – known as the albumin:creatinine ratio, or ACR
         - blood in urine
         - protein in urine
+    - angiotensin 2?
     - kidney biopsy – a small sample of kidney tissue is removed using a needle so the cells can be examined under a microscope for signs of damage
     - scans
         - an ultrasound scan, magnetic resonance imaging (MRI) scan or computerised tomography (CT) scan – to see what the kidneys look like and check whether there are any blockages
@@ -190,6 +208,8 @@ http://www.pathophys.org/ckd/
     - ACE inhibitors
         - [ref][MetcalfeProgression] The kidneys also generate angiotensin II locally, independent of the systemic system, and acting via the angiotensin II type 1 receptor this has significant non-haemodynamic effects contributing to the development of tubulo-interstitial fibrosis by stimulating expression of cytokines and growth factors favouring fibrosis and recruitment of macrophages [26]. Thus, the use of angiotensin-converting enzyme (ACE) inhibitors performs a dual role, both lowering the glomerular capillary pressure and preventing the increase in pro-fibrotic cytokine expression.
         - ACE inhibitors reduce proteinuria and limit the progression of deterioration of CKD both by reducing glomerular capillary hypertension and by reducing the mean dimensions of large unselective pores of the glomerular capillary wall so enhancing the size-selective function of this barrier to macromolecules.
+    - [ref][AbbateProgression]
+        - The renoprotection that was conferred by angiotensin-converting enzyme (ACE) inhibition in the REIN study was mediated by the drug’s action of reducing urinary protein levels, to the extent that patients who were on ramipril had a better outcome paralleled by more reduction in proteinuria, whereas BP was comparable to that of control subjects (3). ACE inhibitor–induced reduction in proteinuria was the strongest time-dependent covariate predicting slower progression to ESRD.
     
 
 # References
@@ -197,6 +217,8 @@ http://www.pathophys.org/ckd/
 [EddyProgression]: https://www.scribd.com/doc/306939098/8-Progression-in-Chronic-Kidney-Disease  "Progression in Chronic Kidney Disease"
 [MetcalfeProgression]: http://ndt.oxfordjournals.org/content/22/suppl_9/ix26.full  "How does early chronic kidney disease progress?"
 [YuProgression]: http://archinte.jamanetwork.com/article.aspx?articleid=215760  "Progression of Chronic Renal Failure"
+[AbbateProgression]: http://jasn.asnjournals.org/content/17/11/2974.full "How Does Proteinuria Cause Progressive Renal Damage?"
+[RusterProteinuria]: http://jasn.asnjournals.org/content/17/11/2985.full#sec-5 "Renin-Angiotensin-Aldosterone System and Progression of Renal Disease"
 
 # Relationships
 

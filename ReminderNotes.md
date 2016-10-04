@@ -108,8 +108,10 @@ Likely Or Proven Correlates:
     - CKD causes this
     - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.
 - Infective, obstructive and reflux nephropathies
+- Hyperglycemia
+- Erythropoietin
+- Hyperkalemia
 - Arteriopathic renal disease
-- Neoplasms
 - Myeloma
 - Renal papillary necrosis
 - Pericarditis
@@ -127,8 +129,6 @@ Other Correlates - No literature checks have been performed to see how these hol
 
 - inflammation
 - Hematuria
-- Hyperglycemia
-- Hyperkalemia
 - Iron Deficiency
 - Folate (B12) Deficiency
 - Impaired Glucose Tolerance
