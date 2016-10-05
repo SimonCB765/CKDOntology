@@ -112,6 +112,7 @@ Likely Or Proven Correlates:
 - Erythropoietin
 - Hyperkalemia
 - Arteriopathic renal disease
+- Uraemia
 - Myeloma
 - Renal papillary necrosis
 - Pericarditis
@@ -177,7 +178,7 @@ Measurements (for CKD, its causes and probably any effects it has)
         - Can be affected by creatinine generation (muscle mass and diet), tubular secretion and extrarenal removal
     - eGFR and Glomerular Filtration Rate (GFR)
     - Albumin in the urine, urine microalbumin, ACR, (micro)ACR, (micro)albumin excretion rate, serum albumin
-        - albuminuria
+        - (micro/macro)albuminuria
     - Protein in the urine, PCR, urine protein excretion, serum total protein
         - Protienuria
 - Other

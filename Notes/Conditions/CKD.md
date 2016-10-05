@@ -5,24 +5,89 @@ Chronic Renal Failure
 Chronic Renal Insufficiency
 
 # Definition
-Chronic kidney disease (CKD) is a progressive loss of renal function over time, defined by a decrease in glomerular filtration rate (GFR) and creatinine clearance. A diagnosis of CKD requires one of two things according to KDIGO guidelines:
+Chronic kidney disease (CKD) is a general term for a range of heterogeneous disorders affecting the structure and function of the kidney CKD manifests as a progressive loss of renal function over time, and is defined as "abnormalities of kidney structure or function, present for at least 3 months, with implications for health" [ref][KDIGO2012]. Classification of CKD is based on cause, glomerular filtration rate (GFR) and albuminuria category (i.e. the severity of kidney damage) [ref][KDIGO2012]. Categories of GFR are:
 
-1. Kidney damage for at least 3 months, as defined by structural or functional abnormalities of the kidney, with or without decreased GFR.
-2. GFR < 60 mL/min/1.73m2 for at least 3 months, with or without kidney damage.
+- G1 - Normal or high - GFR >= 90 mL/min/1.73 m2
+- G2 - Mildly decreased - GFR in the range 60-89 mL/min/1.73 m2
+- G3a - Mild to moderately decreased - GFR in the range 45-59 mL/min/1.73 m2
+- G3b - Moderately to severely decreased - GFR in the range 30-44 mL/min/1.73 m2
+- G4 - Severely decreased - GFR in the range 15-29 mL/min/1.73 m2
+- G5 - Kidney failure - GFR < 15 mL/min/1.73 m2
 
-CKD can also be staged according to these criteria. Staging definitions are:
+Categories for albuminuria are:
 
-1. Stage 1: Kidney damage with normal or increased GFR (GFR > 90 mL/min/1.73 m2)
-2. Stage 2: Mild reduction in GFR (GFR in the range 60-89 mL/min/1.73 m2)
-3. Stage 3: Moderate reduction in GFR (GFR in the range 30-59 mL/min/1.73 m2)
-4. Stage 4: Severe reduction in GFR (GFR in the range 15-29 mL/min/1.73 m2)
-5. Stage 5: Kidney failure (GFR < 15 mL/min/1.73 m2 or dialysis)
+- A1 - Normal to mildly increased - albumin-to-creatinine ratio < 30 mg/g (3 mg/mmol)
+- A2 - Moderately increased - albumin-to-creatinine ratio in the range 30-300 mg/g (3-30 mg/mmol)
+- A3 - Severely increased - albumin-to-creatinine ratio > 300 mg/g (30 mg/mmol)
+
+Risk can then be classified as one of four categories:
+
+- Green - low risk (and if no other markers of kidney disease then no CKD) - G1+A1 or G2+A1
+- Yellow - moderately increased risk - G3a+A1, G1+A2 or G2+A2
+- Orange - high risk - G3b+A1, G3a+A2, G1+A3 or G2+A3
+- Red - very high risk - all other combinations
 
 # Progression
 
 While the rate of progression varies substantially between patients, CKD is characterised by a progressive deterioration in renal function, as evidenced by a decreasing GFR. Despite the wide range of pathological processes that contribute to renal injury, they converge on a common pathway by which they cause progressive renal destruction, characterised morphologically and pathophysiologically by (myo)fibroblast and/or macrophage infiltration, progressive interstitial fibrosis, tubular hypoxia caused by peritubular capillary loss and a decline in functioning nephrons due to tubular atrophy ([ref][EddyProgression] and [ref][YuProgression]). Numerous secondary factors unrelated to the initial disease, such as glomerular hemodynamics, proteinuria and hypertension, have been shown to mediate the rate of CKD progression ([ref][YuProgression]).
 
 
+- [ref][LeveyCKD]
+    - Early stages of disease are often asymptomatic, are detected during the assessment of comorbid disorders, and can be reversible. Rapidly progressive diseases can lead to kidney failure within months; however, most diseases evolve over decades and some patients do not progress during many years of follow-up.
+    - Kidney damage as defined by structural abnormalities or functional abnormalities other than decreased GFR (select cutdown list)
+        - Pathological abnormalities
+            - Glomerular diseases (diabetes, autoimmune diseases, systemic infections, drugs, neoplasia)
+            - Vascular diseases (atherosclerosis, hypertension, ischaemia, vasculitis, thrombotic microangiopathy)
+            - Tubulointerstitial diseases (urinary-tract infections, stones, obstruction, toxic effects of drugs)
+            - Cystic disease (polycystic kidney disease)
+        - Abnormalities in urinary sediment as markers of kidney damage
+            - Red-blood-cell casts in proliferative glomerulonephritis
+            - White-blood-cell casts in pyelonephritis or interstitial nephritis
+            - Oval fat bodies or fatty casts in diseases with proteinuria
+            - Granular casts and renal tubular epithelial cells in many parenchymal diseases (non-specific)
+        - Imaging abnormalities as markers of kidney damage (ultrasound, CT, and MRI with or without contrast, isotope scans, angiography)
+            - Polycystic kidneys
+            - Hydronephrosis due to obstruction
+            - Cortical scarring due to infarcts, pyelonephritis, or vesicoureteral reflux
+            - Renal masses or enlarged kidneys due to infiltrative diseases
+            - Renal artery stenosis
+            - Small and echogenic kidneys (common in late stages of CKD because of many parenchymal diseases)
+        - Renal tubular syndromes as markers of kidney damage
+            - Renal tubular acidosis
+            - Nephrogenic diabetes insipidus
+            - Barrter and Gittelman syndromes
+            - Fanconi's syndrome
+            - Cystinuria
+            - Familial hypomagnesaemia with hypercalciuria and nephrocalcinosis
+    - Other outcomes include complications of reduced GFR, such as increased risk of cardiovascular disease, acute kidney injury, infection, cognitive impairment, and impaired physical function.20, 21, 22, 23 and 24 Complications can occur at any stage, which often lead to death with no progression to kidney failure, and can arise from adverse effects of interventions to prevent or treat the disease.
+    - Hypetension
+        - Hypertension is attributed to salt retention and increased vascular tone due to a failure to suppress the sympathetic nervous system and renin-angiotensin system, inhibition of sodium-potassium ATPase, and nitric-oxide deficiency.70
+    - Anemia
+        - Anaemia is caused mainly by decreased production of erythropoietin by the peritubular cells, and bone-marrow unresponsiveness to erythropoietin, indicating systemic inflammation, increased hepcidin production by the liver, and decreased iron availability for erythropoiesis.71
+    - Glomerular disease
+        - Nephrotic syndrome is one of the main clinical presentations of glomerular disease (panel 1), indicating the pathophysiological effects of losses of large quantities of urinary albumin and other serum proteins, such as immunoglobulins, growth factors, components of the complement, and coagulation cascades. The clinical manifestations are related to the underlying clinical diagnosis and severity of proteinuria.91, 92 and 93
+    - CVD
+        - Cardiovascular disease is considered separately from other complications of chronic kidney disease because it is the most frequent outcome of chronic kidney disease, and because chronic kidney disease is a risk factor for cardiovascular disease.105, 106 and 107 Studies of several populations show that low GFR and high albuminuria are associated with an increased risk of cardiovascular mortality, de-novo and recurrent cardiovascular events, and subclinical cardiovascular disease. Pathophysiological links between cardiovascular and chronic kidney disease include a high prevalence of traditional and non-traditional risk factors, including hypertension; fluid overload; electrolyte, acid-base, and mineral disorders; anaemia; dyslipidaemia; inflammation; increased oxidative stress; and prothrombotic stimuli.108, 109 and 110 However, these associations do not prove causation. Other possible explanations are the high prevalence of shared risk factors for both diseases, and reverse causation, because cardiovascular disease is now recognised as a risk factor for GFR decline.111 and 112
+    - Causes
+        - In developed countries, chronic kidney disease is generally associated with old age, diabetes, hypertension, obesity, and cardiovascular disease, with diabetic glomerulosclerosis and hypertensive nephrosclerosis as the presumed pathological entities; however, exact diagnosis is often difficult.25
+        - Diabetic glomerulosclerosis is characterised by slowly worsening albuminuria, hypertension, and progressive decline in GFR, sometimes with nephrotic syndrome.
+        - Hypertensive nephrosclerosis has no distinct markers of kidney damage, but high-normal to high concentrations of albuminuria can occur after the onset of decreased GFR.
+        - Many patients with diabetes and chronic kidney disease do not have typical features of diabetic glomerulosclerosis, and pathological findings of hypertensive nephrosclerosis are often more severe than expected because of the level of blood pressure.
+        - The presence of red-blood-cell or white-blood-cell casts, or specific imaging abnormalities, suggest another cause of kidney disease. In developing countries, common causes of chronic kidney disease also include glomerular and tubulointerstitial diseases resulting from infections and exposure to drugs and toxins.
+        - diseases or conditions that cause CKD—ie, risk factors for CVD (hypertension, diabetes, obesity), CVD, autoimmune disease (systemic lupus erythematosus, vasculitis), infections (bacteria, HBV, HCV, HIV, schistosomiasis, malaria), drugs or toxins (NSAID, iodinated radiographic contrast, aristolochic acid)
+    - Tests
+        - Although albumin assays are expensive, measurement of an albumin to creatinine ratio in untimed spot urine has many advantages and is recommended by guidelines.43 and 44
+    - Treatments
+        - The most consistent benefit is noted with use of angiotensin-converting-enzyme (ACE) inhibitors and angiotensin-receptor blockers (ARBs), usually in association with diuretic drugs, in patients with high concentrations of albuminuria.
+
+
+
+http://www.sciencedirect.com/science/article/pii/S0085253815504754
+http://www.sciencedirect.com/science/article/pii/S008525381533338X
+https://www.ncbi.nlm.nih.gov/pubmed/2709671?dopt=Abstract
+http://www.sciencedirect.com/science/article/pii/S0085253815597755
+http://ndt.oxfordjournals.org/content/16/suppl_1/63.full.pdf
+http://www.sciencedirect.com/science/article/pii/S0955470X11000875
 
 
 
@@ -156,7 +221,7 @@ http://www.pathophys.org/ckd/
     - Metabolic acidosis (due to accumulation of sulfates, phosphates, uric acid etc.) may cause altered enzyme activity by excess acid acting on enzymes; and also increased excitability of cardiac and neuronal membranes by the promotion of hyperkalemia due to excess acid (acidemia).[17] Acidosis is also due to decreased capacity to generate enough ammonia from the cells of the proximal tubule.[8]
     - Relative Erythropoietin Deficiency
     - Protein in the urine
-        - Proteinuria, Microalbuminuria, etc.
+        - Proteinuria, (Micro/macro)albuminuria, etc.
     - Iron deficiency anemia, which increases in prevalence as kidney function decreases, is especially prevalent in those requiring haemodialysis. It is multifactoral in cause, but includes increased inflammation, reduction in erythropoietin, and hyperuricemia leading to bone marrow suppression.
     - Gout
         - Gout may occur in otherwise healthy people. However, patients with CKD suffer gout more commonly because they often have high levels of uric acid (or urate) in their blood. This is mainly because their kidneys are less effective at removing uric acid from their blood. Patients with CKD may also take medicines (such as water tablets or diuretics) or have other medical conditions (such as high blood pressure) that lead to higher levels of uric acid. The uric acid forms crystals within the patient’s joints. These crystals lead to inflammation and the affected joint becomes hot, red and swollen. Gout can be extremely painful. Any joint may be affected but the big toe is the most common site.
@@ -185,7 +250,7 @@ http://www.pathophys.org/ckd/
         - Albumin
         - Glucose (a ‘fasting’ sample)
     - urine test
-        - albumin and creatinine in your urine – known as the albumin:creatinine ratio, or ACR
+        - albumin and creatinine in your urine – known as the albumin-to-creatinine ratio, or ACR
         - blood in urine
         - protein in urine
     - angiotensin 2?
@@ -214,6 +279,8 @@ http://www.pathophys.org/ckd/
 
 # References
 
+[KDIGO2012]: http://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf "KDIGO Guidelines 2012"
+[LeveyCKD]: http://www.sciencedirect.com/science/article/pii/S0140673611601785 "Chronic kidney disease"
 [EddyProgression]: https://www.scribd.com/doc/306939098/8-Progression-in-Chronic-Kidney-Disease  "Progression in Chronic Kidney Disease"
 [MetcalfeProgression]: http://ndt.oxfordjournals.org/content/22/suppl_9/ix26.full  "How does early chronic kidney disease progress?"
 [YuProgression]: http://archinte.jamanetwork.com/article.aspx?articleid=215760  "Progression of Chronic Renal Failure"
