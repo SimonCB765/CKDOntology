@@ -1,10 +1,12 @@
 # Alternate Names
+
 Chronic Kidney Failure
 Chronic Renal Disease
 Chronic Renal Failure
 Chronic Renal Insufficiency
 
 # Definition
+
 Chronic kidney disease (CKD) is a general term for a range of heterogeneous disorders affecting the structure and function of the kidney CKD manifests as a progressive loss of renal function over time, and is defined as "abnormalities of kidney structure or function, present for at least 3 months, with implications for health" [ref][KDIGO2012]. Classification of CKD is based on cause, glomerular filtration rate (GFR) and albuminuria category (i.e. the severity of kidney damage) [ref][KDIGO2012]. Categories of GFR are:
 
 - G1 - Normal or high - GFR >= 90 mL/min/1.73 m2
@@ -34,6 +36,16 @@ While the rate varies substantially between patients, CKD is characterised by a 
 In the face of renal injury, the kidney has an innate ability to maintain GFR in spite of the progressive destruction of nephrons, as the remaining healthy nephrons begin to exhibit hyperfiltration and compensatory hypertrophy. The loss of nephrons (irrespective of etiology) therefore initiates haemodynamic factors that perpetuate renal dysfunction [ref][MetcalfeProgression]. The compensatory response in the remaining healthy nephrons can lead to increased intraglomerular pressure, glomerular hypertrophy, hyperfiltration and secondary glomerulosclerosis [ref][MetcalfeProgression]. The glomerulosclerotic injury is often transmitted to the interstitium, leading to tubulo-interstitial injury and apoptotic self-destruction of nephrons [ref][AbbateProgression]. While this path may not be strictly followed in all cases, some component glomerular or tubulo-interstital injury is frequently seen in patients with CKD, regardless of the original renal injury.
 
 # Causes and Consequences
+
+The causes and consequences of CKD often stem from the primary functions of the kidneys, some of which are:
+
+- Waste product excretion - The kidneys filter out waste products, e.g. toxins, excess salts and urea, from the bloodstream for removal in the urine.
+- Balancing of salts - The actions of the kidneys keeps the homeostatic balance of various salts, e.g. sodium, potassium, calcium and phosphate, in the bloodstream.
+- Blood pressure regulation - Kidneys need constant pressure to filter the blood. When the pressure drops too low, kidneys help to increase the pressure by producing angiotensin (a blood vessel-constricting peptide hormone) that also stimulates the release of aldosterone, which promotes the retention of sodium and secretion of potassium, and therefore water, in the distal tubules and collecting ducts.
+- Water retention regulation - As water intake increases/decreases the kidneys respond accordingly by decreasing/increasing the reabsorption of water and consequently increasing/decreasing the volume of urine produced.
+- Activation of vitamin D - The kidneys are involved at the end of the activation pathway for vitamin D by converting calcidiol into calcitriol.
+- Regulation of red blood cell production - Erythropoietin is a glycoprotein hormone that controls erythropoiesis (red blood cell production), and is produced by interstitial fibroblasts in the kidney in close association with peritubular capillary and proximal convoluted tubule. When the kidney's don't get enough oxygen, they produce EPO in order to stimulate the production of red blood cells by the bone marrow.
+- Acid-base homeostasis - The kidneys help to maintain the pH balance of the blood by reabsorbing bicarbonate from the urine and excreting hydrogen ions into it. Acidosis causes more bicarbonate to be reabsorbed from tubular fluid, while collecting ducts secrete more hydrogen to generate more bicarbonate. Alkalosis causes the kidney to excrete more bicarbonate as there is reduced secretion of hydrogen ions and more ammonium is excreted.
 
 Given the range of injuries that can lead or contribute to CKD, the causes, symptoms and comorbidities of CKD are extensive and dependent on the breadth of contributory factors of interest. While CKD is chronic, acute factors can contribute to the disease by initiating or exacerbating renal injury. Added to this, early stages of the disease are often asymptomatic and detected during assessment of comorbid disorders [ref][LeveyCKD].
 
