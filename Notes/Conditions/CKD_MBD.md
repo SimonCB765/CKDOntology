@@ -59,6 +59,7 @@ Osteomalacia
 Renal Osteodystrophy
 
 ### Diagnostics
+Alkaline Phosphatase
 Calcium Level
 Parathyroid Hormone Level
 Phosphate Level
