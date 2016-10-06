@@ -29,7 +29,15 @@ Risk can then be classified as one of four categories:
 
 # Progression
 
-While the rate of progression varies substantially between patients, CKD is characterised by a progressive deterioration in renal function, as evidenced by a decreasing GFR. Despite the wide range of pathological processes that contribute to renal injury, they converge on a common pathway by which they cause progressive renal destruction, characterised morphologically and pathophysiologically by (myo)fibroblast and/or macrophage infiltration, progressive interstitial fibrosis, tubular hypoxia caused by peritubular capillary loss and a decline in functioning nephrons due to tubular atrophy ([ref][EddyProgression] and [ref][YuProgression]). Numerous secondary factors unrelated to the initial disease, such as glomerular hemodynamics, proteinuria and hypertension, have been shown to mediate the rate of CKD progression ([ref][YuProgression]).
+While the rate varies substantially between patients, CKD is characterised by a progressive deterioration in renal function, as evidenced by a decreasing GFR. Despite the wide range of pathological processes that contribute to renal injury, they converge on a common pathway by which they cause progressive renal destruction, characterised morphologically and pathophysiologically by (myo)fibroblast and/or macrophage infiltration, progressive interstitial fibrosis, tubular hypoxia caused by peritubular capillary loss and a decline in functioning nephrons due to tubular atrophy ([ref][EddyProgression] and [ref][YuProgression]). Numerous secondary factors unrelated to the initial disease, such as glomerular hemodynamics, proteinuria and hypertension, have been shown to mediate the rate of CKD progression ([ref][YuProgression]).
+
+In the face of renal injury, the kidney has an innate ability to maintain GFR in spite of the progressive destruction of nephrons, as the remaining healthy nephrons begin to exhibit hyperfiltration and compensatory hypertrophy. The loss of nephrons (irrespective of etiology) therefore initiates haemodynamic factors that perpetuate renal dysfunction [ref][MetcalfeProgression]. The compensatory response in the remaining healthy nephrons can lead to increased intraglomerular pressure, glomerular hypertrophy, hyperfiltration and secondary glomerulosclerosis [ref][MetcalfeProgression]. The glomerulosclerotic injury is often transmitted to the interstitium, leading to tubulo-interstitial injury and apoptotic self-destruction of nephrons [ref][AbbateProgression]. While this path may not be strictly followed in all cases, some component glomerular or tubulo-interstital injury is frequently seen in patients with CKD, regardless of the original renal injury.
+
+# Causes and Consequences
+
+Given the range of injuries that can lead or contribute to CKD, the causes, symptoms and comorbidities of CKD are extensive and dependent on the breadth of contributory factors of interest.
+
+- 
 
 
 - [ref][LeveyCKD]
