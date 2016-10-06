@@ -35,13 +35,14 @@ In the face of renal injury, the kidney has an innate ability to maintain GFR in
 
 # Causes and Consequences
 
-Given the range of injuries that can lead or contribute to CKD, the causes, symptoms and comorbidities of CKD are extensive and dependent on the breadth of contributory factors of interest.
+Given the range of injuries that can lead or contribute to CKD, the causes, symptoms and comorbidities of CKD are extensive and dependent on the breadth of contributory factors of interest. While CKD is chronic, acute factors can contribute to the disease by initiating or exacerbating renal injury. Added to this, early stages of the disease are often asymptomatic and detected during assessment of comorbid disorders [ref][LeveyCKD].
 
 - 
+- Diagnostics
+- Treatments
 
 
 - [ref][LeveyCKD]
-    - Early stages of disease are often asymptomatic, are detected during the assessment of comorbid disorders, and can be reversible. Rapidly progressive diseases can lead to kidney failure within months; however, most diseases evolve over decades and some patients do not progress during many years of follow-up.
     - Kidney damage as defined by structural abnormalities or functional abnormalities other than decreased GFR (select cutdown list)
         - Pathological abnormalities
             - Glomerular diseases (diabetes, autoimmune diseases, systemic infections, drugs, neoplasia)
@@ -299,7 +300,7 @@ http://www.pathophys.org/ckd/
 
 ### Conditions
 
-### Measurements
+### Diagnostics
 
 ### Treatments
 

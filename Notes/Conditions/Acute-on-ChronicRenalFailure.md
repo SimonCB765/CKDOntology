@@ -15,7 +15,7 @@
 
 ### Conditions
 
-### Measurements
+### Diagnostics
 
 ### Treatments
 

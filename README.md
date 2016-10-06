@@ -13,16 +13,16 @@ Conditions are nodes.
     - *id - The short form name by which the condition is referenced.
     - name - The name of the condition.
 
-## Measurements
-Measurements are nodes.
+## Diagnostics
+Diagnostics are nodes.
 
 - Labels
-    - :Measurement
+    - :Diagnostic
 - Properties
-    - alternativeNames - The alternative names of the entity being measured.
-    - description - A description of what the measurement measures and why you may want it measured.
-    - method - Ways of taking the measurement that are of interest (e.g. serum, blood, fasting, total).
-    - *name - The name of the entity being measured (e.g. blood glucose, eGFR).
+    - alternativeNames - The alternative names of the diagnostic.
+    - description - A description of what the diagnostic measure is and why you may want to use it.
+    - method - Ways of performing the procedure that are of interest (e.g. serum, blood, fasting, total, MRI).
+    - *name - The name of the entity being measured (e.g. blood glucose, eGFR, kideny biopsy).
 
 ## References
 References are nodes.

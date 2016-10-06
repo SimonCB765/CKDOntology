@@ -12,7 +12,7 @@
 
 ### Conditions
 
-### Measurements
+### Diagnostics
 
 ### Treatments
 

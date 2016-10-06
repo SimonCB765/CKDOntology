@@ -28,6 +28,19 @@
     - Renal Transplant
         - Kidney transplants may be beneficial in improving a person's ability to correctly maintain their homeoostatic balance, but will not reverse damage caused prior to the transplant.
 
+## References
+
+http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=101&aid=812
+http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
+http://www.renal.org/guidelines/modules/ckd-mineral-and-bone-disorders-(ckd-mbd)#sthash.J0a59iPA.dpbs
+http://www.medscape.com/viewarticle/770604
+http://cjasn.asnjournals.org/content/5/Supplement_1/S1.full
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743361/
+http://www.kidney.org.uk/help-and-info/medical-information-from-the-nkf-/medical-info-calcium-phosphate-index/
+http://www.ncbi.nlm.nih.gov/pubmed/16641930
+http://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO%20CKD-MBD%20GL%20KI%20Suppl%20113.pdf
+https://www.ncbi.nlm.nih.gov/pubmed/25498380
+
 # Relationships
 
 ### Conditions
@@ -45,7 +58,7 @@ Metastatic Calcification
 Osteomalacia
 Renal Osteodystrophy
 
-### Measurements
+### Diagnostics
 Calcium Level
 Parathyroid Hormone Level
 Phosphate Level
@@ -88,16 +101,3 @@ Renal Osteodystrophy -[:CausedBy]-> CKD-MBD
 Renal Transplant -[:Treats]-> CKD-MBD
 Vitamin D Level - [:DecreasedBy]-> CKD-MBD
 Vitamin D Replacement Therapy -[:Treats]-> Hypovitaminosis D
-
-## References
-
-http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=101&aid=812
-http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
-http://www.renal.org/guidelines/modules/ckd-mineral-and-bone-disorders-(ckd-mbd)#sthash.J0a59iPA.dpbs
-http://www.medscape.com/viewarticle/770604
-http://cjasn.asnjournals.org/content/5/Supplement_1/S1.full
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743361/
-http://www.kidney.org.uk/help-and-info/medical-information-from-the-nkf-/medical-info-calcium-phosphate-index/
-http://www.ncbi.nlm.nih.gov/pubmed/16641930
-http://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO%20CKD-MBD%20GL%20KI%20Suppl%20113.pdf
-https://www.ncbi.nlm.nih.gov/pubmed/25498380
