@@ -56,7 +56,7 @@ Hypocalcemia
 Hypovitaminosis D
 Metastatic Calcification
 Osteomalacia
-Renal Osteodystrophy
+Renal Osteodystrophy (Renal Bone Disease)
 
 ### Diagnostics
 Alkaline Phosphatase

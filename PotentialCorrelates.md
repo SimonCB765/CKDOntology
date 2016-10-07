@@ -1,0 +1,238 @@
+Known Correlates that have not been added yet
+- Causes
+    - Extra-renal
+        - Anemia
+        - Cancer
+            - https://www.ncbi.nlm.nih.gov/pubmed/20349418
+        - Cardiovascular Disease
+            - Atherosclerosis
+            - Heart Failure
+            - Vasculitis
+            - ...
+        - Dehydration
+        - Hyperlipidemia
+            - leads to atherosclerosis in the kidney arteries (and presumably glomerular hypertension etc. etc.)
+            - Hypercholesterolemia
+                - can cause build-up of fatty deposits in the blood vessels supplying the kidneys, which can make it harder for them to work properly
+            - ...
+        - Hypoperfusion
+        - Hypovolemia
+            - Low volume gives low pressure ... does this give damage??
+        - Post-renal
+            - Cancer
+                - https://www.ncbi.nlm.nih.gov/pubmed/20349418
+            - Congenital and Defects of the Bladder
+            - Neurogenic Bladder
+            - Retroperitoneal Fibrosis
+            - Urinary Tract Obstruction or Dysfunction
+                - Enlarged Prostate
+                - Obstructive Nephropathy
+                    - Obstructive nephropathy is exemplified by bilateral kidney stones and diseases of the prostate.
+                - Obstructive Uropathy
+                - Prostate Disease
+                - Recurrent Kidney Stone Disease
+                - ...
+    - Intra-renal
+        - Cancer
+            - https://www.ncbi.nlm.nih.gov/pubmed/20349418
+        - Congenital Defects of the Kidney
+        - Cystic Kidney Diseases
+            - Polycystic Kidney Disease
+        - Glomerular Disease
+            - Primary
+                - Alport syndrome, Complement-related diseases (eg, atypical hemolytic-uremic syndrome [HUS], dense deposit disease), Focal and segmental glomerulosclerosis (FSGS), Immunoglobulin A (IgA) nephropathy, Membranoproliferative glomerulonephritis (MPGN), Membranous nephropathy, Minimal change disease, Rapidly progressive (crescentic) glomerulonephritis
+            - Secondary
+                - Amyloidosis, Endocarditis, Henoch-Schönlein purpura, Hepatitis B and C, Light-chain deposition disease, Mixed connective tissue disease, Mixed cryoglobulinemia, Neoplasia, Reflux nephropathy, Rheumatoid arthritis, Scleroderma, Systemic lupus erythematosus, Thrombotic thrombocytopenic purpura (TTP), Wegener granulomatosis
+        - Hypercalcemia
+        - Myoglobinuria
+        - Nephritis
+            - Pyelonephritis
+            - (Tubulo-)Interstitial Nephritis
+            - ...
+        - Nephrosis
+        - Vascular Diseases of the Kidney
+            - Atheroembolic Renal Disease
+            - Ischemic Nephropathy
+            - Nephrosclerosis
+            - Renal Artery Stenosis
+            - Renal Ischemia
+            - Renal Vein Thrombosis
+            - ...
+- Consequences
+    - Acute Kidney Injury
+        - More susceptible???
+    - Cancer
+        - https://www.ncbi.nlm.nih.gov/pubmed/20349418
+    - CKD-MBD
+    - Hyperphosphatemia
+    - Proteinuria
+    - Renovascular Disease
+        - Renovascular Hypertension
+            - Caused by narrowing of blood renal artery (or I suppose just low perfusion...)
+        - Atherosclerotic Renovascular Disease
+        - During the progression of kidney disease, renal function becomes less and less efficient. This can often lead to renal vascular disease – a condition that narrows the blood vessels carrying blood to the kidneys. This is frequently associated with high blood pressure, heart disease and kidney failure
+    - CVD
+        - Atherosclerosis
+        - ...
+- Tests/Diagnoses
+    - http://www.edren.org/pages/edreninfo/blood-tests-in-kidney-disease.php
+    - blood test
+        - Creatinine (eGFR)
+        - Urea
+        - Sodium
+        - Potassium
+        - Calcium
+        - Phosphate
+        - Bicarbonate
+        - Cholesterol
+        - Total protein
+        - Albumin
+        - Glucose (a ‘fasting’ sample)
+    - urine test
+        - albumin and creatinine in your urine – known as the albumin-to-creatinine ratio, or ACR
+        - blood in urine
+        - protein in urine
+    - angiotensin 2?
+    - kidney biopsy – a small sample of kidney tissue is removed using a needle so the cells can be examined under a microscope for signs of damage
+    - scans
+        - an ultrasound scan, magnetic resonance imaging (MRI) scan or computerised tomography (CT) scan – to see what the kidneys look like and check whether there are any blockages
+- Treatments
+    - Lifestyle Changes
+        - smoking cessation
+        - dietary changes
+        - reduce salt intake
+        - exercise
+        - reduce alcohol consumption
+        - lose weight
+        - avoiding medicines (e.g. over the counter NSAIDs)
+    - Mainly treat other diseases
+    - Dialysis
+    - Renal Transplant
+    - ACE inhibitors
+        - [ref][MetcalfeProgression] The kidneys also generate angiotensin II locally, independent of the systemic system, and acting via the angiotensin II type 1 receptor this has significant non-haemodynamic effects contributing to the development of tubulo-interstitial fibrosis by stimulating expression of cytokines and growth factors favouring fibrosis and recruitment of macrophages [26]. Thus, the use of angiotensin-converting enzyme (ACE) inhibitors performs a dual role, both lowering the glomerular capillary pressure and preventing the increase in pro-fibrotic cytokine expression.
+        - ACE inhibitors reduce proteinuria and limit the progression of deterioration of CKD both by reducing glomerular capillary hypertension and by reducing the mean dimensions of large unselective pores of the glomerular capillary wall so enhancing the size-selective function of this barrier to macromolecules.
+    - [ref][AbbateProgression]
+        - The renoprotection that was conferred by angiotensin-converting enzyme (ACE) inhibition in the REIN study was mediated by the drug’s action of reducing urinary protein levels, to the extent that patients who were on ramipril had a better outcome paralleled by more reduction in proteinuria, whereas BP was comparable to that of control subjects (3). ACE inhibitor–induced reduction in proteinuria was the strongest time-dependent covariate predicting slower progression to ESRD.
+
+
+
+
+
+
+Likely Or Proven Correlates:
+
+- Nephrosis/Nephrotic Syndrome
+    - This may be a consequence of CKD or some of its correlates, but it seems unlikely to be a cause
+    - http://www.pathophys.org/nephrotic/
+- Anemia
+    - https://www.kidneyresearchuk.org/health-information/anaemia-and-kidney-disease
+    - The anaemia that goes with renal failure is mainly due to a deficiency of a hormone called erythropoietin (Epo). Epo is produced by the kidney to stimulate red blood cell production from the bone marrow. A deficiency of Epo leads to anaemia.
+    - Often the anaemia of renal failure can be helped by taking iron. Some people remain short of iron even when taking iron tablets. If so, you might need a course of intravenous iron injections. This is usually done at the hospital as an out patient.
+    - With more severe anaemia you may be prescribed Epo, which has to be given as injections, usually once or twice a week. You can learn to give this to yourself quite easily.
+- Acidaemia
+    - CKD causes this
+    - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.
+- Infective, obstructive and reflux nephropathies
+- Hyperglycemia
+- Erythropoietin
+- Hyperkalemia
+- Uraemia
+- Myeloma
+- Metabolic acidosis
+- Renal papillary necrosis
+- Pericarditis
+    - CKD causes this?
+    - This causes angina
+- Cardiovascular Disease
+    - CKD causes this
+    - Heart attack, stroke or Cerebrovascular Accident, (congestive) heart failure, ischemic heart disease, COPD (is this CVD?), Peripheral Arterial Disease, Peripheral vascular diseases, Transient Ischaemic Attack, coronary heart disease ("Coronary Artery Disease", "Ischemic Heart Disease"), etc. etc.
+    - Risk factors for CVD like: smoking status; lipid management; proteinuria; anaemia; glycated haemoglobin and microalbuminuria in people with diabetes; serum cholesterol and total cholesterol: HDL ratio; BMI, alcohol consumption; urinalysis and total protein creatinine ratio; haemoglobin concentration
+
+
+- Signs and Symptoms
+    - Hypoxia
+    - Blood pressure is increased due to fluid overload and production of vasoactive hormones created by the kidney via the renin-angiotensin system, increasing one's risk of developing hypertension and/or suffering from congestive heart failure.
+    - Urea accumulates, leading to azotemia and ultimately uremia (symptoms ranging from lethargy to pericarditis and encephalopathy). Due to its high systemic circulation, urea is excreted in eccrine sweat at high concentrations and crystallizes on skin as the sweat evaporates ("uremic frost").
+    - Potassium accumulates in the blood (hyperkalemia with a range of symptoms including malaise and potentially fatal cardiac arrhythmias). Hyperkalemia usually does not develop until the glomerular filtration rate falls to less than 20-25 ml/min/1.73 m2, at which point the kidneys have decreased ability to excrete potassium. Hyperkalemia in CKD can be exacerbated by acidemia (which leads to extracellular shift of potassium) and from lack of insulin.[8]
+    - Erythropoietin synthesis is decreased causing anemia.
+    - Fluid volume overload symptoms may range from mild edema to life-threatening pulmonary edema.
+    - Hyperphosphatemia, due to reduced phosphate excretion, follows the decrease in glomerular filtration. Hyperphosphatemia is associated with increased cardiovascular risk, being a direct stimulus to vascular calcification.[9] Moreover, circulating concentrations of fibroblast growth factor-23 (FGF-23) increase progressively as the renal capacity for phosphate excretion declines, but this adaptative response may also contribute to left ventricular hypertrophy and increased mortality in CKD patients.[10][11]
+    - Hypocalcemia, due to 1,25 dihydroxyvitamin D3 deficiency (caused by stimulation of FGF-23 and reduction of renal mass),[12] and resistance to the calcemic action of parathyroid hormone.[13] Osteocytes are responsible for the increased production of FGF-23, which is a potent inhibitor of the enzyme 1-alpha-hydroxylase (responsible for the conversion of 25-hydroxycholecalciferol into 1,25 dihydroxyvitamin D3).[14] Later, this progresses to secondary hyperparathyroidism, renal osteodystrophy, and vascular calcification that further impairs cardiac function. An extreme consequence is the occurrence of the rare condition named calciphylaxis.[15]
+    - Metabolic acidosis (due to accumulation of sulfates, phosphates, uric acid etc.) may cause altered enzyme activity by excess acid acting on enzymes; and also increased excitability of cardiac and neuronal membranes by the promotion of hyperkalemia due to excess acid (acidemia).[17] Acidosis is also due to decreased capacity to generate enough ammonia from the cells of the proximal tubule.[8]
+    - Relative Erythropoietin Deficiency
+    - Protein in the urine
+        - Proteinuria, (Micro/macro)albuminuria, etc.
+    - Iron deficiency anemia, which increases in prevalence as kidney function decreases, is especially prevalent in those requiring haemodialysis. It is multifactoral in cause, but includes increased inflammation, reduction in erythropoietin, and hyperuricemia leading to bone marrow suppression.
+    - Gout
+        - Gout may occur in otherwise healthy people. However, patients with CKD suffer gout more commonly because they often have high levels of uric acid (or urate) in their blood. This is mainly because their kidneys are less effective at removing uric acid from their blood. Patients with CKD may also take medicines (such as water tablets or diuretics) or have other medical conditions (such as high blood pressure) that lead to higher levels of uric acid. The uric acid forms crystals within the patient’s joints. These crystals lead to inflammation and the affected joint becomes hot, red and swollen. Gout can be extremely painful. Any joint may be affected but the big toe is the most common site.
+        - Although non-steroidal anti-inflammatory drugs, such as ibuprofen (Brufen®, Abbott, UK) or diclofenac (Voltarol®, Novartis, UK) are the most common treatment for gout in patients without kidney disease, they should be avoided in patients with CKD. A tablet called colchicine is often used instead. This is a very effective treatment for gout, but some patients find that it causes diarrhoea, in which case it should be stopped. If possible, colchicine tablets should be taken at the very beginning of an attack. A short course of steroids (such as prednisolone tablets) may also be used.
+        - Dietitians can help patients reduce the amount of uric acid they ingest in their food. Patients with gout should reduce their consumption of beer, wine, yeasts (for example, Marmite®), red meats (especially liver) and certain fish (particularly anchovies, herring and mackerel). The drugs used to treat acute attacks of gout will not help to prevent further episodes. If the attacks become frequent, medications to lower the levels of uric acid in the blood might be considered; the most common of which is called allopurinol
+        - http://www.bjrm.co.uk/ShowPDF.aspx?index=0&st=14&nd=17&edit=105&aid=820
+
+
+Other Correlates - No literature checks have been performed to see how these hold up as real causes
+
+- inflammation
+- Hematuria
+- Iron Deficiency
+- Folate (B12) Deficiency
+- Impaired Glucose Tolerance
+- Angina - chest pain due to restricted blood flow
+- Balkan (endemic) Nephropathy (ReadV2 K0B6.)
+- Infections (CKD as risk multiplier for infectious diseases leading to greater prevalence)
+    - Pneumonia
+    - Sepsis
+    - Pulmonary infections
+- Dehydration
+
+Treatments
+
+- Angiotensin-converting enzyme (ACE) inhibitors
+    - ACE inhibitors cause relaxation of blood vessels, as well as a decreased blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. They inhibit the angiotensin-converting enzyme, an important component of the renin–angiotensin–aldosterone system.
+    - Treats
+        - Hypertension - Ref: CKD Medscape CME Expert Column Series: Issue 3 — Management of Chronic Kidney Disease Comorbidities)
+        - Congestive Heart Failure
+- Anti-hypertensives (some codes in the QICKD concepts “Anti hypertensive Drugs Horich”, “Diuretics Drugs Horich”, “Anti hypertensive Drugs”, “Diuretics Drugs”)
+    - Alpha-adrenoceptor blockers
+    - Beta-adrenoceptor blockers
+    - Angiotensin II receptor blockers (ARBs)
+    - Vasodilators
+    - Diuretics
+        - Thiazide, loop, potassium sparing, potassium sparing compound
+        - http://www.pathophys.org/diuretics/
+- Calcium channel blocker
+- Erythropoietin Stimulating Agents
+- Non-steroidal anti-inflammatory drugs (NSAIDs)
+    - Aspirin
+- Insulin
+- Lipid lowering drugs
+- T2DM - Meglitinides (glinides), thiazolidinediones (glitazones), sulphonylureas (sulfonylureas), Metformin, Alpha Glucosidase Inhibitors, Amylin Analogs, Biguanides, DPP-4 Inhibitors, Incretin Mimetics, etc.
+- Anticoagulants, antiplatelets, etc.
+    - Persantin, Warfarin, Clopidogrel, etc.
+- Iron Therapy
+- Insulin (Insulin Preparations)
+
+Measurements (for CKD, its causes and probably any effects it has)
+
+- CKD
+    - Creatinine (serum, etc.)
+        - Can be affected by creatinine generation (muscle mass and diet), tubular secretion and extrarenal removal
+    - eGFR and Glomerular Filtration Rate (GFR)
+    - Albumin in the urine, urine microalbumin, ACR, (micro)ACR, (micro)albumin excretion rate, serum albumin
+        - (micro/macro)albuminuria
+    - Protein in the urine, PCR, urine protein excretion, serum total protein
+        - Protienuria
+- Other
+    - Blood Pressure
+    - Glucose (blood, serum, fasting, level, etc.)
+    - Haemoglobin (estimated, A1, A1c, level, etc.)
+        - The A1 measures are probably HbA1c
+    - Fructosamine (serum, etc.)
+    - Cholesterol (blood, serum, fasting, total, etc.)
+    - Triglycerides (serum, etc.)
+    - Aldosterone
+    - Folate (B12)
+    - Bicarbonate (serum, etc.)
+    - C reactive Protein (serum, etc.)
+    - Framingham QRISK cardiovascular
+    - Uric Acid
