@@ -1,7 +1,6 @@
 Known Correlates that have not been added yet
 - Causes
     - Extra-renal
-        - Anemia
         - Cancer
             - https://www.ncbi.nlm.nih.gov/pubmed/20349418
         - Cardiovascular Disease
@@ -38,11 +37,6 @@ Known Correlates that have not been added yet
         - Congenital Defects of the Kidney
         - Cystic Kidney Diseases
             - Polycystic Kidney Disease
-        - Glomerular Disease
-            - Primary
-                - Alport syndrome, Complement-related diseases (eg, atypical hemolytic-uremic syndrome [HUS], dense deposit disease), Focal and segmental glomerulosclerosis (FSGS), Immunoglobulin A (IgA) nephropathy, Membranoproliferative glomerulonephritis (MPGN), Membranous nephropathy, Minimal change disease, Rapidly progressive (crescentic) glomerulonephritis
-            - Secondary
-                - Amyloidosis, Endocarditis, Henoch-Schönlein purpura, Hepatitis B and C, Light-chain deposition disease, Mixed connective tissue disease, Mixed cryoglobulinemia, Neoplasia, Reflux nephropathy, Rheumatoid arthritis, Scleroderma, Systemic lupus erythematosus, Thrombotic thrombocytopenic purpura (TTP), Wegener granulomatosis
         - Hypercalcemia
         - Myoglobinuria
         - Nephritis
@@ -50,22 +44,11 @@ Known Correlates that have not been added yet
             - (Tubulo-)Interstitial Nephritis
             - ...
         - Nephrosis
-        - Vascular Diseases of the Kidney
-            - Atheroembolic Renal Disease
-            - Ischemic Nephropathy
-            - Nephrosclerosis
-            - Renal Artery Stenosis
-            - Renal Ischemia
-            - Renal Vein Thrombosis
-            - ...
 - Consequences
-    - Acute Kidney Injury
-        - More susceptible???
     - Cancer
         - https://www.ncbi.nlm.nih.gov/pubmed/20349418
-    - CKD-MBD
     - Hyperphosphatemia
-    - Proteinuria
+    - Hypocalcemia
     - Renovascular Disease
         - Renovascular Hypertension
             - Caused by narrowing of blood renal artery (or I suppose just low perfusion...)
@@ -124,11 +107,6 @@ Likely Or Proven Correlates:
 - Nephrosis/Nephrotic Syndrome
     - This may be a consequence of CKD or some of its correlates, but it seems unlikely to be a cause
     - http://www.pathophys.org/nephrotic/
-- Anemia
-    - https://www.kidneyresearchuk.org/health-information/anaemia-and-kidney-disease
-    - The anaemia that goes with renal failure is mainly due to a deficiency of a hormone called erythropoietin (Epo). Epo is produced by the kidney to stimulate red blood cell production from the bone marrow. A deficiency of Epo leads to anaemia.
-    - Often the anaemia of renal failure can be helped by taking iron. Some people remain short of iron even when taking iron tablets. If so, you might need a course of intravenous iron injections. This is usually done at the hospital as an out patient.
-    - With more severe anaemia you may be prescribed Epo, which has to be given as injections, usually once or twice a week. You can learn to give this to yourself quite easily.
 - Acidaemia
     - CKD causes this
     - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.

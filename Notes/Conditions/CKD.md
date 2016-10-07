@@ -61,37 +61,24 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
             - http://www.pathophys.org/ckd/
             - Hypertensive Nephropathy
             - ...
-        - Post-renal
-            - Renal Calculi
-        - Sepsis
-    - Intra-renal
-        - Acute Kidney Injury
-            - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
-            - Basically may increase likelihood of developing CKD
-            - ...
-        - Glomerular Disease
-            - https://www.niddk.nih.gov/health-information/health-topics/kidney-disease/glomerular-diseases/Pages/facts.aspx
-            - Glomerulonephritis
-                - http://www.pathophys.org/ckd/
-                - https://en.wikipedia.org/wiki/Glomerulonephritis
-                - (a family of different forms of kidney inflammation) can lead to CKD. These conditions affect the glomeruli, the fine filters in our kidneys. At one time, these diseases were collectively known as Bright’s Disease – before modern research identified them as separate conditions.
-                - ...
-            - Glomerulosclerosis
         - Nephrotoxins
             - Intraveneous Contrast Media
             - Lithium??
             - NSAIDs
             - ...
-        - Proteinuria
-        - Tubulo-interstitial Disease
-            - http://www.merckmanuals.com/professional/genitourinary-disorders/tubulointerstitial-diseases/overview-of-tubulointerstitial-diseases
-            - Acute Tubular Necrosis
-                - A kidney disorder involving damage to and death of the tubular epithelial cells that form the renal tubules of the kidneys.
-                - https://medlineplus.gov/ency/article/000512.htm
-                - http://emedicine.medscape.com/article/238064-overview
-            - Tubulo-interstitial Nephritis
-            - ...
+        - Renal Calculi
+        - Sepsis
+    - Intra-renal (Intrinsic)
+        - Glomerular Diseases
+        - Tubulo-interstitial Diseases
+        - Renovascular Diseases
 - Consequences
+    - Acute Kidney Injury
+        - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
+        - CKD makes you more susceptible to AKI???
+        - ...
+    - Anemia
+    - CKD-MBD
     - End Stage Renal Failure
         - The final stage of chronic kidney disease where the kidneys are not functioning well enough to meet the needs of daily life.
         - http://www.healthline.com/health/end-stage-kidney-disease#Overview1
@@ -100,6 +87,7 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
         - https://medlineplus.gov/kidneyfailure.html
         - [ref][LeveyCKD]
             - Kidney failure is traditionally regarded as the most serious outcome of chronic kidney disease and symptoms are usually caused by complications of reduced kidney function. When symptoms are severe they can be treated only by dialysis and transplantation; kidney failure treated this way is known as end-stage renal disease. Kidney failure is defined as a GFR of less than 15 mL/min per 1·73 m2, or the need for treatment with dialysis or transplantation.
+        - Proteinuria
 
 # Diagnosis and Treatment
 
