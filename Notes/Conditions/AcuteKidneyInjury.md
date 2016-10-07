@@ -9,6 +9,11 @@
 - http://www.pathophys.org/aki/
 - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
 
+- Acute Tubular Necrosis
+    - A kidney disorder involving damage to and death of the tubular epithelial cells that form the renal tubules of the kidneys.
+    - https://medlineplus.gov/ency/article/000512.htm
+    - http://emedicine.medscape.com/article/238064-overview
+
 # References
 
 # Relationships
