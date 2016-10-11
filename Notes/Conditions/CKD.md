@@ -41,7 +41,7 @@ The causes and consequences of CKD often stem from the primary functions of the 
 
 - Waste product excretion - The kidneys filter out waste products, e.g. toxins, excess salts and urea, from the bloodstream for removal in the urine.
 - Balancing of salts - The actions of the kidneys keeps the homeostatic balance of various salts, e.g. sodium, potassium, calcium and phosphate, in the bloodstream.
-- Blood pressure regulation - Kidneys need constant pressure to filter the blood. When the pressure drops too low, kidneys help to increase the pressure by producing angiotensin (a blood vessel-constricting peptide hormone) that also stimulates the release of aldosterone, which promotes the retention of sodium and secretion of potassium, and therefore water, in the distal tubules and collecting ducts.
+- Blood pressure regulation - Kidneys need constant pressure to filter the blood. When the pressure drops too low, kidneys help to increase the pressure by producing angiotensin (a blood vessel-constricting peptide hormone) that also stimulates the release of aldosterone, which promotes the retention of sodium, and therefore water, and secretion of potassium in the distal tubules and collecting ducts.
 - Water retention regulation - As water intake increases/decreases the kidneys respond accordingly by decreasing/increasing the reabsorption of water and consequently increasing/decreasing the volume of urine produced.
 - Activation of vitamin D - The kidneys are involved at the end of the activation pathway for vitamin D by converting calcidiol into calcitriol.
 - Regulation of red blood cell production - Erythropoietin is a glycoprotein hormone that controls erythropoiesis (red blood cell production), and is produced by interstitial fibroblasts in the kidney in close association with peritubular capillary and proximal convoluted tubule. When the kidney's don't get enough oxygen, they produce EPO in order to stimulate the production of red blood cells by the bone marrow.
@@ -60,6 +60,7 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
         - Hypertension (Systemic)
             - http://www.pathophys.org/ckd/
             - Hypertensive Nephropathy
+            - Systemic hypertension can be transmitted causing glomerular capillary hypertension and a subsequent accelerated decline in GFR due to glomerular haemodynamic changes (e.g. compensatory hyperfiltration) [ref][MetcalfeProgression] and [ref][YuProgression].
             - ...
         - Nephrotoxins
             - Intraveneous Contrast Media
@@ -82,6 +83,8 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
     - End Stage Renal Failure
         - The final stage of chronic kidney disease where the kidneys are not functioning well enough to meet the needs of daily life.
         - http://www.healthline.com/health/end-stage-kidney-disease#Overview1
+    - Hypertension
+        - Systemic hypertension is common in CKD, and incidence increases with declining GFR [ref][BuckalewHyperGFR]. The activation of the renin–angiotensin–aldosterone system and the retention of sodium and water can all cause hypertension [ref][MetcalfeProgression] and [ref][YuProgression].
     - Kidney Failure
         - Impaired kidney function in which the kidneys fail to adequately filter metabolic wastes from the blood.
         - https://medlineplus.gov/kidneyfailure.html
@@ -103,6 +106,7 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
 [YuProgression]: http://archinte.jamanetwork.com/article.aspx?articleid=215760  "Progression of Chronic Renal Failure"
 [AbbateProgression]: http://jasn.asnjournals.org/content/17/11/2974.full "How Does Proteinuria Cause Progressive Renal Damage?"
 [RusterProteinuria]: http://jasn.asnjournals.org/content/17/11/2985.full#sec-5 "Renin-Angiotensin-Aldosterone System and Progression of Renal Disease"
+[BuckalewHyperGFR]: http://www.ajkd.org/article/S0272-6386(96)90380-7/abstract "Prevalence of hypertension in 1,795 subjects with chronic renal disease: The modification of diet in renal disease study baseline cohort"
 
 # Relationships
 
