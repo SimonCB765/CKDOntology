@@ -22,6 +22,9 @@ Find information for the following conditions:
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
 - Hyperphosphatemia
 - Hypertension
+- Hypervolemic Hyponatremia
+    - Two of the major etiologies of hypervolemic hyponatremia are heart failure (HF) and cirrhosis
+    - Can potentially result in hypokalemia due to the increased sodium retention.
 - Hypocalcemia
 - Hypovitaminosis D
 - Metastatic Calcification
