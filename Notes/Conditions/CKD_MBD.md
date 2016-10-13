@@ -75,29 +75,33 @@ https://www.ncbi.nlm.nih.gov/pubmed/25498380
 - Vitamin D Replacement Therapy
 
 ### Edges
-- Adynamic Bone Disease -[:TypeOf]-> Renal Osteodystrophy
-- Arteriosclerosis -[:CausedBy]-> Calciphylaxis
-- Calcimimetrics -[:Treats]-> Hyperparathyroidism (Secondary)
-- Calciphylaxis -[:TypeOf]-> Metastatic Calcification
-- Calciphylaxis -[:CausedBy]-> Hyperphosphatemia
-- Calciphylaxis -[:CausedBy]-> Hypocalcemia
-- Calcium Level -[:DecreasedBy]-> CKD-MBD
-- Calcium Supplement -[:Treats]-> Hypocalcemia
-- Dialysis -[:Treats]-> Hyperphosphatemia
-- Extraskeletal Calcification -[:CausedBy]-> CKD-MBD
-- Hyperparathyroid Bone Disease -[:TypeOf]-> Renal Osteodystrophy
-- Hyperparathyroidism (Secondary) -[:CausedBy]-> Hypocalcemia
-- Hyperphosphatemia -[:CausedBy]-> CKD-MBD
-- Hypocalcemia -[:CausedBy]-> CKD-MBD
-- Hypovitaminosis D -[:CausedBy]-> CKD-MBD
-- Metastatic Calcification -[:TypeOf]-> Extraskeletal Calcification
-- Osteomalacia -[:CausedBy]-> Hypovitaminosis D
-- Osteomalacia -[:TypeOf]-> Renal Osteodystrophy
-- Parathyroidectomy -[:Treats]-> Hyperparathyroidism (Secondary)
-- Parathyroid Hormone Level - [:IncreasedBy]-> CKD-MBD
-- Phosphate Binders -[:Treats]-> Hyperphosphatemia
-- Phosphate Level -[:IncreasedBy]-> CKD-MBD
-- Renal Osteodystrophy -[:CausedBy]-> CKD-MBD
-- Renal Transplant -[:Treats]-> CKD-MBD
-- Vitamin D Level -[:DecreasedBy]-> CKD-MBD
-- Vitamin D Replacement Therapy -[:Treats]-> Hypovitaminosis D
+- Primary Conditions
+    - Extraskeletal Calcification -[:CausedBy]-> CKD-MBD
+    - Hyperphosphatemia -[:CausedBy]-> CKD-MBD
+    - Hypocalcemia -[:CausedBy]-> CKD-MBD
+    - Hypovitaminosis D -[:CausedBy]-> CKD-MBD
+    - Renal Osteodystrophy -[:CausedBy]-> CKD-MBD
+- Secondary Conditions
+    - Adynamic Bone Disease -[:TypeOf]-> Renal Osteodystrophy
+    - Arteriosclerosis -[:CausedBy]-> Calciphylaxis
+    - Calciphylaxis -[:TypeOf]-> Metastatic Calcification
+    - Calciphylaxis -[:CausedBy]-> Hyperphosphatemia
+    - Calciphylaxis -[:CausedBy]-> Hypocalcemia
+    - Hyperparathyroid Bone Disease -[:TypeOf]-> Renal Osteodystrophy
+    - Hyperparathyroidism (Secondary) -[:CausedBy]-> Hypocalcemia
+    - Metastatic Calcification -[:TypeOf]-> Extraskeletal Calcification
+    - Osteomalacia -[:CausedBy]-> Hypovitaminosis D
+    - Osteomalacia -[:TypeOf]-> Renal Osteodystrophy
+- Diagnostic Relationships
+    - Calcium Level -[:DecreasedBy]-> CKD-MBD
+    - Parathyroid Hormone Level - [:IncreasedBy]-> CKD-MBD
+    - Phosphate Level -[:IncreasedBy]-> CKD-MBD
+    - Vitamin D Level -[:DecreasedBy]-> CKD-MBD
+- Treatment Relationships
+    - Calcimimetrics -[:Treats]-> Hyperparathyroidism (Secondary)
+    - Calcium Supplement -[:Treats]-> Hypocalcemia
+    - Dialysis -[:Treats]-> Hyperphosphatemia
+    - Parathyroidectomy -[:Treats]-> Hyperparathyroidism (Secondary)
+    - Phosphate Binders -[:Treats]-> Hyperphosphatemia
+    - Renal Transplant -[:Treats]-> CKD-MBD
+    - Vitamin D Replacement Therapy -[:Treats]-> Hypovitaminosis D
