@@ -5,11 +5,9 @@
 Glomerular integrity and function can be affected by a number of inflammatory (often referred to as glomerulonephritis) and non-inflammatory diseases. The glomerulus comprises a series of capillary loops that derive from the afferent arteriole and drain into the efferent arteriole. Of the variety of cells that make up the glomerulus, two that are particularly important in glomerular diseases are:
 
 - Glomerular Endothelial Cells
-    - Glomerular endothelial cells (unlabelled, sitting on the interior of the capillaries across the basement membrane from the podocytes) line the interior of the capillaries that make up the glomerulus, and allow for the free filtration of fluid and plasma solutes.
+    - Glomerular endothelial cells (unlabelled in the renal corpuscle image, sitting on the interior of the capillaries across the basement membrane from the podocytes) line the interior of the capillaries that make up the glomerulus, and allow for the free filtration of fluid and plasma solutes.
 - Podocytes (or Visceral Epithelial Cells)
-    - Podocytes (3a and 3b in the image of the renal corpuscle below) wrap around the capillaries of the glomerulus and interdigitate, leaving gaps that restrict the passage of macromolecules (such as albumin) but allow small molecules such as water, glucose, and ionic salts to pass through.
-
-![Renal Corpuscle](/../RenalCorpuscle.png "Renal Corpuscle")
+    - Podocytes (3a and 3b in the image of the renal corpuscle) wrap around the capillaries of the glomerulus and interdigitate, leaving gaps that restrict the passage of macromolecules (such as albumin) but allow small molecules such as water, glucose, and ionic salts to pass through.
 
 Glomerular diseases can be caused by a variety of mechanisms, including immune mediated, hemodynamic (e.g. hypertension, reduced renal mass), metabolic (e.g. diabetes, metabolic syndrome) and hereditary (e.g. defects of the glomerular basement membrane in Alport syndrome). The most common cause of glomerulonephritis is immune-mediated injury. Causes of glomerular diseases can also be divided into primary and secondary depending on whether the cause is a primary renal disease (i.e. the disease arose in the kidneys) or glomerular involvement is secondary to a systemic disease.
 
@@ -18,12 +16,31 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
 # Causes and Consequences
 
 - Causes
-    - Glomerulonephrosis
+    - Mixed Nephrotic and Nephritic Syndromes
         - Primary
+            - IgA Nephropathy
+            - Membranoproliferative Glomerulonephritis
+            - Rapidly Progressive Glomerulonephritis
         - Secondary
-    - Glomerulonephritis
+            - Systemic Lupus Erythematosus (Lupus Nephritis)
+    - Nephrotic Syndrome
         - Primary
+            - Focal Segmental Glomerulosclerosis
+                - FSGS is the most common single form of nephrotic syndrome in adults.
+            - Membranous Glomerulonephritis (Membranous Nephropathy)
+            - Mesangial Proliferative Glomerulonephritis (Mesangiocapillary Glomerulonephritis)
+            - Minimal Change Disease
+                - MCD is the most common single form of nephrotic syndrome in children.
         - Secondary
+            - Amyloidosis
+            - Diabetic Nephropathy
+    - Nephritic Syndrome
+        - Primary
+            - Antiglomerular Basement Membrane Disease (Goodpasture's Disease)
+            - Postinfectious Glomerulonephritis
+            - Thin Basement Membrane Disease
+        - Secondary
+            - Vasculitis
 - Consequences
     - Shared
         - Edema
@@ -126,46 +143,63 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
 [GiganteHypercoag]: https://www.ncbi.nlm.nih.gov/pubmed/22724465 "Hypercoagulability and nephrotic syndrome"
 [NosratolaHyperlipid]: http://www.kidney-international.org/article/S0085-2538(16)30004-7/fulltext "Disorders of lipid metabolism in nephrotic syndrome: mechanisms and consequences"
 
+http://www.merckmanuals.com/professional/genitourinary-disorders/glomerular-disorders/overview-of-glomerular-disorders
+https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
+
 # Relationships
 
 ### Conditions
-Anasarca
-Ascites
-Azotemia
-Edema
-Hematuria
-Hypercoagulability
-Hyperkalemia
-Hyperlipidemia (Hypercholesterolemia and Hypertriglyceridemia)
-(Hyper)lipiduria
-Hypertension
-Hypervolemia
-Hypoalbuminemia
-Hyponatremia
-Hypoproteinemia
-Metabolic Acidosis
-Oliguria
-Pleural Effusion
-Proteinuria
-Thrombophilia
-Uremia
+- Amyloidosis
+- Anasarca
+- Antiglomerular Basement Membrane Disease (Goodpasture's Disease)
+- Ascites
+- Azotemia
+- Diabetic Nephropathy
+- Edema
+- Focal Segmental Glomerulosclerosis
+- Hematuria
+- Hypercoagulability
+- Hyperkalemia
+- Hyperlipidemia (Hypercholesterolemia and Hypertriglyceridemia)
+- (Hyper)lipiduria
+- Hypertension
+- Hypervolemia
+- Hypoalbuminemia
+- Hyponatremia
+- Hypoproteinemia
+- IgA Nephropathy
+- Membranoproliferative Glomerulonephritis
+- Membranous Glomerulonephritis (Membranous Nephropathy)
+- Mesangial Proliferative Glomerulonephritis (Mesangiocapillary Glomerulonephritis)
+- Metabolic Acidosis
+- Minimal Change Disease
+- Oliguria
+- Pleural Effusion
+- Postinfectious Glomerulonephritis
+- Proteinuria
+- Rapidly Progressive Glomerulonephritis
+- Systemic Lupus Erythematosus (Lupus Nephritis)
+- Thin Basement Membrane Disease
+- Thrombophilia
+- Uremia
+- Vasculitis
 
 ### Diagnostics
-Blood Urea Nitrogen (BUN)
-Cholesterol Level
-Creatinine Level
-Lipid Presence
-Protein:Creatinine Ratio (PCR)
-Red Blood Cells
-Red Blood Cell Casts
-Renal Biopsy
-Total Protein Level
-Triglyceride Level
+- Blood Urea Nitrogen (BUN)
+- Cholesterol Level
+- Creatinine Level
+- Lipid Presence
+- Protein:Creatinine Ratio (PCR)
+- Red Blood Cells
+- Red Blood Cell Casts
+- Renal Biopsy
+- Total Protein Level
+- Triglyceride Level
 
 ### Treatments
-ACE Inhibitor
-Angiotensin II Receptor Blockers
-Diuretics
-Statins
+- ACE Inhibitor
+- Angiotensin II Receptor Blockers
+- Diuretics
+- Statins
 
 ### Edges
