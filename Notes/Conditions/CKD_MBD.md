@@ -83,7 +83,6 @@ Calciphylaxis -[:CausedBy]-> Hyperphosphatemia
 Calciphylaxis -[:CausedBy]-> Hypocalcemia
 Calcium Level - [:DecreasedBy]-> CKD-MBD
 Calcium Supplement -[:Treats]-> Hypocalcemia
-CKD-MBD -[:CausedBy]-> CKD
 Dialysis -[:Treats]-> Hyperphosphatemia
 Extraskeletal Calcification -[:CausedBy]-> CKD-MBD
 Hyperparathyroid Bone Disease -[:TypeOf]-> Renal Osteodystrophy

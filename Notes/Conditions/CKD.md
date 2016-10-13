@@ -111,9 +111,12 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
 # Relationships
 
 ### Conditions
+- CKD
+- CKD-MBD
 
 ### Diagnostics
 
 ### Treatments
 
 ### Edges
+- CKD-MBD -[:CausedBy]-> CKD
