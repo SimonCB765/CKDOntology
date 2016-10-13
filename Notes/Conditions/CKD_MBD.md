@@ -81,7 +81,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/25498380
 - Calciphylaxis -[:TypeOf]-> Metastatic Calcification
 - Calciphylaxis -[:CausedBy]-> Hyperphosphatemia
 - Calciphylaxis -[:CausedBy]-> Hypocalcemia
-- Calcium Level - [:DecreasedBy]-> CKD-MBD
+- Calcium Level -[:DecreasedBy]-> CKD-MBD
 - Calcium Supplement -[:Treats]-> Hypocalcemia
 - Dialysis -[:Treats]-> Hyperphosphatemia
 - Extraskeletal Calcification -[:CausedBy]-> CKD-MBD
@@ -96,8 +96,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/25498380
 - Parathyroidectomy -[:Treats]-> Hyperparathyroidism (Secondary)
 - Parathyroid Hormone Level - [:IncreasedBy]-> CKD-MBD
 - Phosphate Binders -[:Treats]-> Hyperphosphatemia
-- Phosphate Level - [:IncreasedBy]-> CKD-MBD
+- Phosphate Level -[:IncreasedBy]-> CKD-MBD
 - Renal Osteodystrophy -[:CausedBy]-> CKD-MBD
 - Renal Transplant -[:Treats]-> CKD-MBD
-- Vitamin D Level - [:DecreasedBy]-> CKD-MBD
+- Vitamin D Level -[:DecreasedBy]-> CKD-MBD
 - Vitamin D Replacement Therapy -[:Treats]-> Hypovitaminosis D
