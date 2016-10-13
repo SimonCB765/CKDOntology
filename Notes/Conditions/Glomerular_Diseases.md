@@ -24,6 +24,7 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
         - Secondary
             - Systemic Lupus Erythematosus (Lupus Nephritis)
     - Nephrotic Syndrome
+        - [ref][KodnerNephrotic]
         - Primary
             - Focal Segmental Glomerulosclerosis
                 - FSGS is the most common single form of nephrotic syndrome in adults.
@@ -78,14 +79,14 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
         - Glomerular injury caused by inflammatory damage can lead to the nephritic syndrome. This is generally characterised by a decrease in GFR early on. Inflammatory damage to cells lining the glomerulus (the basement membrane and podocytes) also leads to pores large enough to proteins and red blood cells to pass into the urine. These changes can affect some (segmental) or all (global) of the glomerulus, and can affect some (focal) or all (diffuse) of the glomeruli within the kidneys.
         - Azotemia
             - As there is decreased filtering of the blood, levels of waste products rise resulting in azotemia (and potentially uremia).
+        - Edema
+            - The decrease in glomerular filtration in the nephritic syndrome causes marked salt and water retention, leading to edema.
         - Elevated Creatinine Level
             - Reduced GFR leads to an accumulation of creatinine in the blood.
         - Hematuria
             - Alterations to the filtration capabilities of the glomerulus enable red blood cells to enter the urine.
         - Hyperkalemia
             - Hyperkalemia may result from an impaired ability to excrete potassium.
-        - Edema
-            - The decrease in glomerular filtration in the nephritic syndrome causes marked salt and water retention, leading to edema.
         - Hypertension
             - In addition to hypertension caused via the retention of water and sodium seen in the nephrotic syndrome, the reduction in GFR associated with the nephritic syndrome leads to additional retention and hypertension. Glomerular haemodynamics in response to the decrease in GFR, such as compensatory ultrafiltration, can also contribute to the increase in hypertension.
         - Metabolic Acidosis
@@ -101,26 +102,31 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
     - Shared
         - Bloodwork
             - Blood Urea Nitrogen (BUN)
-            - Creatinine Level
+            - Creatinine
+                - Rule out acute renal failure, assess glomerular filtration rate
         - Renal Biopsy
         - Urinalysis
             - Protein:Creatinine Ratio (PCR)
-            - Total Protein Level
-    - Nephrotic Syndrome
+                - Quantify degree of proteinuria (ratio greater than 3 to 3.5)
+            - Urine Protein
+                - Confirm proteinuria
+    - Nephrotic Syndrome [ref][KodnerNephrotic]
         - Bloodwork
-            - Cholesterol Level
-            - Triglyceride Level
-        - Urinalysis
-            - Lipid Presence
+            - Albumin
+                - Assess degree of hypoalbuminemia
+            - Lipid Panel (Lipid Profile)
+                - Assess degree of hyperlipidemia
     - Nephritic Syndrome
+        - Bloodwork
+            - Potassium Level
         - Urinalysis
-            - Red Blood Cells
             - Red Blood Cell Casts
-- Treatments
+            - Urine Volume
+- Treatments [ref][KodnerNephrotic]
     - Treatment for the underlying cause.
     - In all cases treatment choices need to be informed by the underlying condition in order to not exacerbate it.
     - Shared
-        - ACE Inhibitor
+        - ACE Inhibitors
             - To treat the fluid retention, hypertension and proteinuria.
         - Angiotensin II Receptor Blockers
             - To treat the fluid retention, hypertension and proteinuria.
@@ -132,8 +138,8 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
                 - Used to treat the edema. In hypoalbuminemic these may not work as loop diuretics are inactivated by binding to albumin in the tubular lumen. As proteinuria is associated with increased tubular uptake of protein, which is then catabolised, albumin is present in the tubules to inactivate the diuretic.
         - Statins
             - To treat the hyperlipidemia.
-    - Nephrotic
-    - Nephritic
+    - Nephrotic Syndrome
+    - Nephritic Syndrome
         - Treatment for the infection...
 
 # References
@@ -142,6 +148,7 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
 [PalmerNephroticEdema]: https://www.ncbi.nlm.nih.gov/pubmed/9185099 "Pathogenesis of edema formation in the nephrotic syndrome"
 [GiganteHypercoag]: https://www.ncbi.nlm.nih.gov/pubmed/22724465 "Hypercoagulability and nephrotic syndrome"
 [NosratolaHyperlipid]: http://www.kidney-international.org/article/S0085-2538(16)30004-7/fulltext "Disorders of lipid metabolism in nephrotic syndrome: mechanisms and consequences"
+[KodnerNephrotic]: http://www.aafp.org/afp/2009/1115/p1129.html "Nephrotic Syndrome in Adults: Diagnosis and Management"
 
 http://www.merckmanuals.com/professional/genitourinary-disorders/glomerular-disorders/overview-of-glomerular-disorders
 https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
@@ -157,6 +164,7 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
 - Diabetic Nephropathy
 - Edema
 - Focal Segmental Glomerulosclerosis
+- Glomerular Disease
 - Hematuria
 - Hypercoagulability
 - Hyperkalemia
@@ -173,6 +181,8 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
 - Mesangial Proliferative Glomerulonephritis (Mesangiocapillary Glomerulonephritis)
 - Metabolic Acidosis
 - Minimal Change Disease
+- Nephritic Syndrome
+- Nephrotic Syndrome
 - Oliguria
 - Pleural Effusion
 - Postinfectious Glomerulonephritis
@@ -185,21 +195,94 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
 - Vasculitis
 
 ### Diagnostics
+- Albumin
 - Blood Urea Nitrogen (BUN)
-- Cholesterol Level
-- Creatinine Level
-- Lipid Presence
+- Creatinine
+- Lipid Panel (Lipid Profile)
 - Protein:Creatinine Ratio (PCR)
-- Red Blood Cells
 - Red Blood Cell Casts
 - Renal Biopsy
-- Total Protein Level
-- Triglyceride Level
+- Urine Protein
 
 ### Treatments
-- ACE Inhibitor
+- ACE Inhibitors
 - Angiotensin II Receptor Blockers
 - Diuretics
 - Statins
 
 ### Edges
+- Top Level Relationships
+    - Nephritic Syndrome -[:TypeOf]-> Glomerular Disease
+    - Nephrotic Syndrome -[:TypeOf]-> Glomerular Disease
+- Primary Conditions
+    - Amyloidosis -[:ContributesTo]-> Nephrotic Syndrome
+    - Antiglomerular Basement Membrane Disease (Goodpasture's Disease) -[:ContributesTo]-> Nephritic Syndrome
+    - Diabetic Nephropathy -[:ContributesTo]-> Nephrotic Syndrome
+    - Focal Segmental Glomerulosclerosis -[:ContributesTo]-> Nephrotic Syndrome
+    - IgA Nephropathy -[:ContributesTo]-> Nephritic Syndrome
+    - IgA Nephropathy -[:ContributesTo]-> Nephrotic Syndrome
+    - Membranoproliferative Glomerulonephritis -[:ContributesTo]-> Nephritic Syndrome
+    - Membranoproliferative Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
+    - Membranous Glomerulonephritis (Membranous Nephropathy) -[:ContributesTo]-> Nephrotic Syndrome
+    - Mesangial Proliferative Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
+    - Minimal Change Disease -[:ContributesTo]-> Nephrotic Syndrome
+    - Postinfectious Glomerulonephritis -[:ContributesTo]-> Nephritic Syndrome
+    - Rapidly Progressive Glomerulonephritis -[:ContributesTo]-> Nephritic Syndrome
+    - Rapidly Progressive Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
+    - Systemic Lupus Erythematosus -[:ContributesTo]-> Nephritic Syndrome
+    - Systemic Lupus Erythematosus -[:ContributesTo]-> Nephrotic Syndrome
+    - Thin Basement Membrane Disease -[:ContributesTo]-> Nephritic Syndrome
+    - Vasculitis -[:ContributesTo]-> Nephritic Syndrome
+- Nephritic Syndrome Relationships
+    - Azotemia -[:ContributesTo]-> Nephritic Syndrome
+    - Edema -[:ContributesTo]-> Nephritic Syndrome
+    - Elevated Creatinine Level -[:ContributesTo]-> Nephritic Syndrome
+    - Hematuria -[:ContributesTo]-> Nephritic Syndrome
+    - Hyperkalemia -[:ContributesTo]-> Nephritic Syndrome
+    - Hypertension -[:ContributesTo]-> Nephritic Syndrome
+    - Hypervolemia -[:ContributesTo]-> Nephritic Syndrome
+    - Hyponatremia -[:ContributesTo]-> Nephritic Syndrome
+    - Metabolic Acidosis -[:ContributesTo]-> Nephritic Syndrome
+    - Oliguria -[:ContributesTo]-> Nephritic Syndrome
+    - Proteinuria -[:ContributesTo]-> Nephritic Syndrome
+- Nephrotic Syndrome Relationships
+    - Anasarca -[:ContributesTo]-> Nephrotic Syndrome
+    - Ascites -[:ContributesTo]-> Nephrotic Syndrome
+    - Edema -[:ContributesTo]-> Nephrotic Syndrome
+    - Hyperlipidemia (Hypercholesterolemia and Hypertriglyceridemia) -[:ContributesTo]-> Nephrotic Syndrome
+    - (Hyper)lipiduria -[:ContributesTo]-> Nephrotic Syndrome
+    - Hypertension -[:ContributesTo]-> Nephrotic Syndrome
+    - Hypervolemia -[:ContributesTo]-> Nephrotic Syndrome
+    - Hyponatremia -[:ContributesTo]-> Nephrotic Syndrome
+    - Hypoproteinemia (including Hypoalbuminemia) -[:ContributesTo]-> Nephrotic Syndrome
+    - (Massive) Proteinuria -[:ContributesTo]-> Nephrotic Syndrome
+    - Pleural Effusion -[:ContributesTo]-> Nephrotic Syndrome
+    - Thrombophilia (Hypercoagulability) -[:ContributesTo]-> Nephrotic Syndrome
+- Diagnostic Relationships
+    - Albumin -[:DecreasedBy]-> Nephrotic Syndrome
+    - Blood Urea Nitrogen -[:IncreasedBy]-> Nephritic Syndrome
+    - Blood Urea Nitrogen -[:IncreasedBy]-> Nephrotic Syndrome
+    - Creatinine -[:IncreasedBy]-> Nephritic Syndrome
+    - Creatinine -[:IncreasedBy]-> Nephrotic Syndrome
+    - Lipid Panel -[:IncreasedBy]-> Nephrotic Syndrome
+    - Potassium Level -[:IncreasedBy]-> Nephritic Syndrome
+    - Protein:Creatinine Ratio -[:IncreasedBy]-> Nephritic Syndrome
+    - Protein:Creatinine Ratio -[:IncreasedBy]-> Nephrotic Syndrome
+    - Red Blood Cell Casts -[:IncreasedBy]-> Nephritic Syndrome
+    - Renal Biopsy -[:Diagnoses]-> Nephritic Syndrome
+    - Renal Biopsy -[:Diagnoses]-> Nephrotic Syndrome
+    - Urine Protein -[:IncreasedBy]-> Nephritic Syndrome
+    - Urine Protein -[:IncreasedBy]-> Nephrotic Syndrome
+    - Urine Volume -[:DecreasedBy]-> Nephritic Syndrome
+- Treatment Relationships
+    - ACE Inhibitors -[:Treats]-> Edema
+    - ACE Inhibitors -[:Treats]-> Hypertension
+    - ACE Inhibitors -[:Treats]-> Proteinuria
+    - Angiotensin II Receptor Blockers -[:Treats]-> Edema
+    - Angiotensin II Receptor Blockers -[:Treats]-> Hypertension
+    - Angiotensin II Receptor Blockers -[:Treats]-> Proteinuria
+    - Anticoagulant -[:Treats]-> Thrombophilia
+    - Anticoagulant -[:Treats]-> Hypercoagulability
+    - Diuretics -[:Treats]-> Edema
+    - Diuretics -[:Treats]-> Hypertension
+    - Statins -[:Treats]-> Hyperlipidemia

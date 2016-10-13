@@ -27,11 +27,14 @@ Diagnostics are nodes.
 ## Relationships
 Relationships are edges.
 
+    A -[Rel]-> B
+
 - Labels
-    - The tpe of the relationship
+    - The type of the relationship
         - :CausedBy - When condition A is caused by condition B (e.g. end stage renal failure is a cause of kidney failure).
         - :ContributesTo - When condition A is a contributory factor for condition B (e.g. acute kidney injury contibutes to acute-on-chronic renal failure).
         - :DecreasedBy - When measurement A decreases due to condition B.
+        - :Diagnoses - When A is used to diagnose B.
         - :IncreasedBy - When measurement A increases due to condition B.
         - :Treats - When treatment A treats condition B.
         - :TypeOf - When A is a type of B (e.g. type 1 diabetes mellitus is a type of diabetes mellitus).
