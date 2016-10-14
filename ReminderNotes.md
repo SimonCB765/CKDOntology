@@ -13,7 +13,7 @@ Find information for the following conditions:
 - Azotemia
 - Calciphylaxis
 - Diabetes
-- Diabetic Nephropathy
+    - Diabetic Nephropathy
 - Edema
 - Extraskeletal Calcification
 - Focal Segmental Glomerulosclerosis

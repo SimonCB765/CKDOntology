@@ -17,6 +17,11 @@ Known Correlates that have not been added yet
         - Hypoperfusion
         - Hypovolemia
             - Low volume gives low pressure ... does this give damage??
+        - Nephrotoxins
+            - Intraveneous Contrast Media
+            - Lithium??
+            - NSAIDs
+            - ...
         - Post-renal
             - Cancer
                 - https://www.ncbi.nlm.nih.gov/pubmed/20349418
@@ -49,11 +54,6 @@ Known Correlates that have not been added yet
         - https://www.ncbi.nlm.nih.gov/pubmed/20349418
     - Hyperphosphatemia
     - Hypocalcemia
-    - Renovascular Disease
-        - Renovascular Hypertension
-            - Caused by narrowing of blood renal artery (or I suppose just low perfusion...)
-        - Atherosclerotic Renovascular Disease
-        - During the progression of kidney disease, renal function becomes less and less efficient. This can often lead to renal vascular disease – a condition that narrows the blood vessels carrying blood to the kidneys. This is frequently associated with high blood pressure, heart disease and kidney failure
     - CVD
         - Atherosclerosis
         - ...
@@ -104,9 +104,6 @@ Known Correlates that have not been added yet
 
 Likely Or Proven Correlates:
 
-- Nephrosis/Nephrotic Syndrome
-    - This may be a consequence of CKD or some of its correlates, but it seems unlikely to be a cause
-    - http://www.pathophys.org/nephrotic/
 - Acidaemia
     - CKD causes this
     - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.
@@ -116,7 +113,6 @@ Likely Or Proven Correlates:
 - Hyperkalemia
 - Uraemia
 - Myeloma
-- Metabolic acidosis
 - Renal papillary necrosis
 - Pericarditis
     - CKD causes this?
@@ -138,8 +134,6 @@ Likely Or Proven Correlates:
     - Hypocalcemia, due to 1,25 dihydroxyvitamin D3 deficiency (caused by stimulation of FGF-23 and reduction of renal mass),[12] and resistance to the calcemic action of parathyroid hormone.[13] Osteocytes are responsible for the increased production of FGF-23, which is a potent inhibitor of the enzyme 1-alpha-hydroxylase (responsible for the conversion of 25-hydroxycholecalciferol into 1,25 dihydroxyvitamin D3).[14] Later, this progresses to secondary hyperparathyroidism, renal osteodystrophy, and vascular calcification that further impairs cardiac function. An extreme consequence is the occurrence of the rare condition named calciphylaxis.[15]
     - Metabolic acidosis (due to accumulation of sulfates, phosphates, uric acid etc.) may cause altered enzyme activity by excess acid acting on enzymes; and also increased excitability of cardiac and neuronal membranes by the promotion of hyperkalemia due to excess acid (acidemia).[17] Acidosis is also due to decreased capacity to generate enough ammonia from the cells of the proximal tubule.[8]
     - Relative Erythropoietin Deficiency
-    - Protein in the urine
-        - Proteinuria, (Micro/macro)albuminuria, etc.
     - Iron deficiency anemia, which increases in prevalence as kidney function decreases, is especially prevalent in those requiring haemodialysis. It is multifactoral in cause, but includes increased inflammation, reduction in erythropoietin, and hyperuricemia leading to bone marrow suppression.
     - Gout
         - Gout may occur in otherwise healthy people. However, patients with CKD suffer gout more commonly because they often have high levels of uric acid (or urate) in their blood. This is mainly because their kidneys are less effective at removing uric acid from their blood. Patients with CKD may also take medicines (such as water tablets or diuretics) or have other medical conditions (such as high blood pressure) that lead to higher levels of uric acid. The uric acid forms crystals within the patient’s joints. These crystals lead to inflammation and the affected joint becomes hot, red and swollen. Gout can be extremely painful. Any joint may be affected but the big toe is the most common site.
@@ -151,16 +145,11 @@ Likely Or Proven Correlates:
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
 
 - inflammation
-- Hematuria
 - Iron Deficiency
 - Folate (B12) Deficiency
 - Impaired Glucose Tolerance
 - Angina - chest pain due to restricted blood flow
 - Balkan (endemic) Nephropathy (ReadV2 K0B6.)
-- Infections (CKD as risk multiplier for infectious diseases leading to greater prevalence)
-    - Pneumonia
-    - Sepsis
-    - Pulmonary infections
 - Dehydration
 
 Treatments
@@ -183,7 +172,6 @@ Treatments
 - Non-steroidal anti-inflammatory drugs (NSAIDs)
     - Aspirin
 - Insulin
-- Lipid lowering drugs
 - T2DM - Meglitinides (glinides), thiazolidinediones (glitazones), sulphonylureas (sulfonylureas), Metformin, Alpha Glucosidase Inhibitors, Amylin Analogs, Biguanides, DPP-4 Inhibitors, Incretin Mimetics, etc.
 - Anticoagulants, antiplatelets, etc.
     - Persantin, Warfarin, Clopidogrel, etc.

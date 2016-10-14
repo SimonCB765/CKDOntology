@@ -54,18 +54,13 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
     - Extra-renal
         - Diabetes
             - http://www.pathophys.org/ckd/
-            - Diabetic Nephropathy
+            - http://www.kidneypathology.com/English_version/Diabetes_and_others.html
             - Metformin + Iodine
             - ...
         - Hypertension (Systemic)
             - http://www.pathophys.org/ckd/
             - Hypertensive Nephropathy
             - Systemic hypertension can be transmitted causing glomerular capillary hypertension and a subsequent accelerated decline in GFR due to glomerular haemodynamic changes (e.g. compensatory hyperfiltration) [ref][MetcalfeProgression] and [ref][YuProgression].
-            - ...
-        - Nephrotoxins
-            - Intraveneous Contrast Media
-            - Lithium??
-            - NSAIDs
             - ...
         - Renal Calculi
         - Sepsis
@@ -90,7 +85,7 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
         - https://medlineplus.gov/kidneyfailure.html
         - [ref][LeveyCKD]
             - Kidney failure is traditionally regarded as the most serious outcome of chronic kidney disease and symptoms are usually caused by complications of reduced kidney function. When symptoms are severe they can be treated only by dialysis and transplantation; kidney failure treated this way is known as end-stage renal disease. Kidney failure is defined as a GFR of less than 15 mL/min per 1·73 m2, or the need for treatment with dialysis or transplantation.
-        - Proteinuria
+    - Proteinuria
 
 # Diagnosis and Treatment
 
