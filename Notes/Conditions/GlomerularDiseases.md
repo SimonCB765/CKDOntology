@@ -37,6 +37,7 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
             - Diabetic Nephropathy
     - Nephritic Syndrome
         - Primary
+            - Alport Syndrome
             - Antiglomerular Basement Membrane Disease (Goodpasture's Disease)
             - Postinfectious Glomerulonephritis
             - Thin Basement Membrane Disease
@@ -67,6 +68,8 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
             - Lipid catabolism is decreased due to lower levels of lipoprotein lipase, the main enzyme involved in lipoprotein breakdown.
         - (Hyper)lipiduria
             - Lipiduria is a result of the increased level of proteins in the urine, including lipoproteins [ref][NosratolaHyperlipid].
+        - Hypocalcaemia
+            - Results from low albumin and the loss of urinary vitamin D. This causes less calcium to be absorbed.
         - Hypoproteinemia (including Hypoalbuminemia)
             - The loss of protein into the urine exceeds the hepatic clearance level, meaning that protein synthesis in the liver is insufficient to compensate for the loss of protein, resulting in a low level of protein in the blood.
         - (Massive) Proteinuria
@@ -152,10 +155,12 @@ To simplify the divisions between the causes, consequences and diagnostics of gl
 
 http://www.merckmanuals.com/professional/genitourinary-disorders/glomerular-disorders/overview-of-glomerular-disorders
 https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
+http://www.kumc.edu/AMA-MSS/Study/nephrotic_and_nephritic_syndromes.htm
 
 # Relationships
 
 ### Conditions
+- Alport Syndrome
 - Amyloidosis
 - Anasarca
 - Antiglomerular Basement Membrane Disease (Goodpasture's Disease)
@@ -173,6 +178,7 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
 - Hypertension
 - Hypervolemia
 - Hypoalbuminemia
+- Hypocalcaemia
 - Hyponatremia
 - Hypoproteinemia
 - IgA Nephropathy
@@ -215,15 +221,16 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
     - Nephritic Syndrome -[:TypeOf]-> Glomerular Disease
     - Nephrotic Syndrome -[:TypeOf]-> Glomerular Disease
 - Primary Conditions
+    - Alport Syndrome -[:ContributesTo]-> Nephritic Syndrome
     - Amyloidosis -[:ContributesTo]-> Nephrotic Syndrome
-    - Antiglomerular Basement Membrane Disease (Goodpasture's Disease) -[:ContributesTo]-> Nephritic Syndrome
+    - Antiglomerular Basement Membrane Disease -[:ContributesTo]-> Nephritic Syndrome
     - Diabetic Nephropathy -[:ContributesTo]-> Nephrotic Syndrome
     - Focal Segmental Glomerulosclerosis -[:ContributesTo]-> Nephrotic Syndrome
     - IgA Nephropathy -[:ContributesTo]-> Nephritic Syndrome
     - IgA Nephropathy -[:ContributesTo]-> Nephrotic Syndrome
     - Membranoproliferative Glomerulonephritis -[:ContributesTo]-> Nephritic Syndrome
     - Membranoproliferative Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
-    - Membranous Glomerulonephritis (Membranous Nephropathy) -[:ContributesTo]-> Nephrotic Syndrome
+    - Membranous Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
     - Mesangial Proliferative Glomerulonephritis -[:ContributesTo]-> Nephrotic Syndrome
     - Minimal Change Disease -[:ContributesTo]-> Nephrotic Syndrome
     - Postinfectious Glomerulonephritis -[:ContributesTo]-> Nephritic Syndrome
@@ -253,6 +260,7 @@ https://www.fastbleep.com/medical-notes/gi-and-renal/12/134
     - (Hyper)lipiduria -[:ContributesTo]-> Nephrotic Syndrome
     - Hypertension -[:ContributesTo]-> Nephrotic Syndrome
     - Hypervolemia -[:ContributesTo]-> Nephrotic Syndrome
+    - Hypocalcaemia -[:ContributesTo]-> Nephrotic Syndrome
     - Hyponatremia -[:ContributesTo]-> Nephrotic Syndrome
     - Hypoproteinemia (including Hypoalbuminemia) -[:ContributesTo]-> Nephrotic Syndrome
     - (Massive) Proteinuria -[:ContributesTo]-> Nephrotic Syndrome
