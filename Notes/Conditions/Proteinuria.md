@@ -2,6 +2,23 @@
 
 # Definition
 
+- Proteinuria
+    - [ref][MetcalfeProgression]
+        - Proteinuria occurs as a result of glomerular capillary hypertension and varies directly with the intraglomerular pressure. The resulting damage to the permeability barrier in the glomerulus, a mechanism at least in part mediated by angiotensin II, leads to an excess of proteins reaching the lumen of the proximal tubules. Filtered proteins are taken up by the tubular cells by endocytosis and stimulate the abnormal production of cytokines which are released into the interstitium leading to macrophage and T lymphocyte migration, the proliferation of fibroblasts and increased ECM production: the familiar mechanisms of glomerulosclerosis and interstitial fibrosis [27].
+        - Consistent with this role in pathophysiology, proteinuria is a strong predictor of clinical progression of CKD, the rapidity of progression is proportional to the severity of proteinuria [29].
+    - [ref][YuProgression]
+        - Proteinuria occurs as a result of glomerular capillary hypertension and damage to the permeability barrier in the glomerulus. Protein leaking across the glomerulus is taken up by the proximal tubule cells by endocytosis. This causes protein overload on the proximal tubular cells, leading to increased activation of the intrarenal angiotensin-converting enzyme (ACE)54 and also, either directly or via activation of transcription factors,55 to abnormal production of the following cytokines: ET-1, monocyte chemoattractant protein 1, and RANTES (regulated on activation, normal T-cell expressed and secreted).56 The cytokines favor fibrosis, apoptosis, and monocytic infiltration, further propagating the process.
+        - In proteinuric animals, there is also direct translocation of growth factors such as TGF-β and hepatocyte growth factor directly from plasma into tubular fluid. These then interact with receptors located at the apical membrane of tubular cells to promote interstitial fibrosis.57,58
+        - Consistent with its role in pathophysiology, proteinuria is a strong predictor of clinical progression of renal disease. The rapidity of GFR decline is proportional to the severity of proteinuria.67
+    - [ref][AbbateProgression]
+        - This review’s main focus is on underlying mechanisms of tubulointerstitial injury that are activated by ultrafiltered protein load of tubular epithelial cells.
+        - The strong predictive value of proteinuria in chronic nephropathies now is firmly established. Baseline proteinuria was an independent predictor of renal outcome in patients with type 1 diabetes and nephropathy (1) and in patients who did not have diabetes and entered the Modification of Diet in Renal Disease (MDRD) study (2). In the Ramipril Efficacy In Nephropathy (REIN) trial (3), urinary protein excretion was the only baseline variable that correlated significantly with GFR decline and progression of nondiabetic chronic proteinuric nephropathies to ESRD. Similar evidence was provided recently in patients with type 2 diabetes and overt nephropathy (4). Other studies corroborated these data and extended the predictive value of proteinuria to risks for overall or cardiovascular mortality (5,6).
+        - Finding that the rate of GFR decline correlated negatively with proteinuria reduction and positively with residual proteinuria provided further evidence for a pathogenetic role of proteinuria (9).
+        - In progressive nephropathies, severe dysfunction of the glomerular capillary barrier to circulating proteins causes protein overload of tubular epithelial cells and intrarenal activation of complement that is responsible for spreading of injury to the tubulointerstitium.
+    - [ref][RusterProteinuria]
+        - Besides hypertension, proteinuria is one of the most important risk factors for the progression of renal diseases. As outlined in detail in the accompanying article by Remuzzi et al., increased tubular absorption of filtered proteins induces tubulointerstitial inflammation, ultimately resulting in tubular atrophy, interstitial fibrosis, and loss of renal function.
+        - The RAAS plays an important role in many of the pathophysiologic processes that are associated with proteinuria. First, AngII is a mediator of proteinuria. It preferentially raises efferent glomerular arteriole resistance. AngII induces TGF-β1 in the various renal cells (25). Sharma et al. (26) recently showed that TGF-β1 impairs the autoregulation by afferent arterioles. Because afferent arterioles respond to an increase in arterial pressure with vasoconstriction, impaired autoregulation in the presence of TGF-β1 leads to an elevation in transcapillary pressure, particularly during systemic hypertension. Thus, AngII directly (efferent vasoconstriction) and indirectly (TGF-β1–mediated impaired afferent arteriole autoregulation) enhances capillary filtration pressure.
+
 # Causes and Consequences
 
 - Causes
@@ -26,6 +43,9 @@
 
 # References
 
+[AbbateProgression]: http://jasn.asnjournals.org/content/17/11/2974.full "How Does Proteinuria Cause Progressive Renal Damage?"
+[MetcalfeProgression]: http://ndt.oxfordjournals.org/content/22/suppl_9/ix26.full  "How does early chronic kidney disease progress?"
+[RusterProteinuria]: http://jasn.asnjournals.org/content/17/11/2985.full#sec-5 "Renin-Angiotensin-Aldosterone System and Progression of Renal Disease"
 [YuProgression]: http://archinte.jamanetwork.com/article.aspx?articleid=215760  "Progression of Chronic Renal Failure"
 
 # Relationships

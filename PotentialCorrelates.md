@@ -52,11 +52,19 @@ Known Correlates that have not been added yet
 - Consequences
     - Cancer
         - https://www.ncbi.nlm.nih.gov/pubmed/20349418
-    - Hyperphosphatemia
-    - Hypocalcemia
     - CVD
         - Atherosclerosis
         - ...
+    - End Stage Renal Failure
+        - The final stage of chronic kidney disease where the kidneys are not functioning well enough to meet the needs of daily life.
+        - http://www.healthline.com/health/end-stage-kidney-disease#Overview1
+    - Hyperphosphatemia
+    - Hypocalcemia
+    - Kidney Failure
+        - Impaired kidney function in which the kidneys fail to adequately filter metabolic wastes from the blood.
+        - https://medlineplus.gov/kidneyfailure.html
+        - [ref][LeveyCKD]
+            - Kidney failure is traditionally regarded as the most serious outcome of chronic kidney disease and symptoms are usually caused by complications of reduced kidney function. When symptoms are severe they can be treated only by dialysis and transplantation; kidney failure treated this way is known as end-stage renal disease. Kidney failure is defined as a GFR of less than 15 mL/min per 1·73 m2, or the need for treatment with dialysis or transplantation.
 - Tests/Diagnoses
     - http://www.edren.org/pages/edreninfo/blood-tests-in-kidney-disease.php
     - blood test

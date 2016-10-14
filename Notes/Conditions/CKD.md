@@ -75,16 +75,8 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
         - ...
     - Anemia
     - CKD-MBD
-    - End Stage Renal Failure
-        - The final stage of chronic kidney disease where the kidneys are not functioning well enough to meet the needs of daily life.
-        - http://www.healthline.com/health/end-stage-kidney-disease#Overview1
     - Hypertension
         - Systemic hypertension is common in CKD, and incidence increases with declining GFR [ref][BuckalewHyperGFR]. The activation of the renin–angiotensin–aldosterone system and the retention of sodium and water can all cause hypertension [ref][MetcalfeProgression] and [ref][YuProgression].
-    - Kidney Failure
-        - Impaired kidney function in which the kidneys fail to adequately filter metabolic wastes from the blood.
-        - https://medlineplus.gov/kidneyfailure.html
-        - [ref][LeveyCKD]
-            - Kidney failure is traditionally regarded as the most serious outcome of chronic kidney disease and symptoms are usually caused by complications of reduced kidney function. When symptoms are severe they can be treated only by dialysis and transplantation; kidney failure treated this way is known as end-stage renal disease. Kidney failure is defined as a GFR of less than 15 mL/min per 1·73 m2, or the need for treatment with dialysis or transplantation.
     - Proteinuria
 
 # Diagnosis and Treatment
