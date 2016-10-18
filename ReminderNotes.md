@@ -10,7 +10,6 @@ Find information for the following conditions:
 - Antiglomerular Basement Membrane Disease (Goodpasture's Disease)
 - Arteriosclerosis
 - Ascites
-- Azotemia
 - Calciphylaxis
 - Diabetes
     - Diabetic Nephropathy
@@ -30,6 +29,7 @@ Find information for the following conditions:
 - Hyperparathyroidism (Secondary)
     - Secondary hyperparathyroidism refers to the excessive secretion of parathyroid hormone by the parathyroid glands in response to hypocalcemia (low blood calcium levels) and associated hyperplasia of the glands.
 - Hyperphosphatemia
+    - Hyperphosphatemia, due to reduced phosphate excretion, follows the decrease in glomerular filtration. Hyperphosphatemia is associated with increased cardiovascular risk, being a direct stimulus to vascular calcification.[9] Moreover, circulating concentrations of fibroblast growth factor-23 (FGF-23) increase progressively as the renal capacity for phosphate excretion declines, but this adaptative response may also contribute to left ventricular hypertrophy and increased mortality in CKD patients.[10][11]
 - Hypertension
 - Hypervolemia
 - Hypoalbuminemia
@@ -45,10 +45,9 @@ Find information for the following conditions:
 - Membranous Glomerulonephritis (Membranous Nephropathy)
 - Mesangial Proliferative Glomerulonephritis (Mesangiocapillary Glomerulonephritis)
 - Metabolic Acidosis
+    - Metabolic acidosis (due to accumulation of sulfates, phosphates, uric acid etc.) may cause altered enzyme activity by excess acid acting on enzymes; and also increased excitability of cardiac and neuronal membranes by the promotion of hyperkalemia due to excess acid (acidemia).[17] Acidosis is also due to decreased capacity to generate enough ammonia from the cells of the proximal tubule.[8]
 - Metastatic Calcification
 - Minimal Change Disease
-- Nephritic Syndrome
-- Nephrotic Syndrome
 - Oliguria
 - Osteomalacia
 - Pleural Effusion
@@ -59,7 +58,6 @@ Find information for the following conditions:
 - Systemic Lupus Erythematosus (Lupus Nephritis)
 - Thin Basement Membrane Disease
 - Thrombophilia
-- Uremia
 - Vasculitis
 
 Find information about the following diagnostics:

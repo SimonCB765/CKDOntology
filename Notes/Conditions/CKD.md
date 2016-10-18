@@ -62,7 +62,7 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
             - Hypertensive Nephropathy
             - Systemic hypertension can be transmitted causing glomerular capillary hypertension and a subsequent accelerated decline in GFR due to glomerular haemodynamic changes (e.g. compensatory hyperfiltration) [ref][MetcalfeProgression] and [ref][YuProgression].
             - ...
-        - Renal Calculi
+        - Kidney Stones (Renal Lithiasis, Nephrolithiasis, Renal Calculi)
         - Sepsis
     - Intra-renal (Intrinsic)
         - Glomerular Diseases
