@@ -52,32 +52,25 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
 - Causes
     - Causes are divided into extra- and intra-renal, conditions originating outside and within the kidney respectively. Intra-renal causes may arise by themselves and/or be the mechanism through which an extra-renal cause induces renal injury. Extra-renal causes all operate through at least one intra-renal mechanism. The causes can be either chronic or acute, provided that the acute causes produce irreversible damage to the kidney and/or can contribute to developing CKD. Causes may occur in more than one category if their effect warrants it (e.g. congenital defects and cancer).
     - Extra-renal
-        - Diabetes
-            - http://www.pathophys.org/ckd/
-            - http://www.kidneypathology.com/English_version/Diabetes_and_others.html
-            - Metformin + Iodine
-            - ...
-        - Hypertension (Systemic)
-            - http://www.pathophys.org/ckd/
-            - Hypertensive Nephropathy
-            - Systemic hypertension can be transmitted causing glomerular capillary hypertension and a subsequent accelerated decline in GFR due to glomerular haemodynamic changes (e.g. compensatory hyperfiltration) [ref][MetcalfeProgression] and [ref][YuProgression].
-            - ...
         - Kidney Stones (Renal Lithiasis, Nephrolithiasis, Renal Calculi)
-        - Sepsis
     - Intra-renal (Intrinsic)
         - Glomerular Diseases
         - Tubulo-interstitial Diseases
         - Renovascular Diseases
 - Consequences
-    - Acute Kidney Injury
-        - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
-        - CKD makes you more susceptible to AKI???
-        - ...
     - Anemia
     - CKD-MBD
     - Hypertension
         - Systemic hypertension is common in CKD, and incidence increases with declining GFR [ref][BuckalewHyperGFR]. The activation of the renin–angiotensin–aldosterone system and the retention of sodium and water can all cause hypertension [ref][MetcalfeProgression] and [ref][YuProgression].
     - Proteinuria
+    - Infections
+        - Patients with CKD are more susceptible to infections in general, especially stage 5 CKD and dialysis patients [ref][DalrympleInfection] and [ref][NaqviSepsis].
+        - Pneumonia
+            - Greater incidence in CKD patients who have not started dialysis than in non-CKD patients [ref][NaqviSepsis].
+        - Sepsis
+            - Patients with CKD are More likely to suffer sepsis/septic shock and when they do it's more likely to result in morbidity and mortality [ref][MaizelSepsis] and [ref][NaqviSepsis]. This is likely due to the large range of comorbidities suffered by patients with CKD, especially uremia [ref][NaqviSepsis].
+        - UTI
+            - Greater incidence in CKD patients who have not started dialysis than in non-CKD patients [ref][NaqviSepsis]. This may be explained in part by a greater incidence of urinary obstructions, which in turn leads to infections [ref][NaqviSepsis].
 
 # Diagnosis and Treatment
 
@@ -94,6 +87,9 @@ Given the range of injuries that can lead or contribute to CKD, the causes, symp
 [AbbateProgression]: http://jasn.asnjournals.org/content/17/11/2974.full "How Does Proteinuria Cause Progressive Renal Damage?"
 [RusterProteinuria]: http://jasn.asnjournals.org/content/17/11/2985.full#sec-5 "Renin-Angiotensin-Aldosterone System and Progression of Renal Disease"
 [BuckalewHyperGFR]: http://www.ajkd.org/article/S0272-6386(96)90380-7/abstract "Prevalence of hypertension in 1,795 subjects with chronic renal disease: The modification of diet in renal disease study baseline cohort"
+[NaqviSepsis]: http://home.smh.com/sections/services-procedures/medlib/pandemic/pan_renal/panrenal_naqvi_050809.pdf "Infectious Complications in Chronic Kidney Disease"
+[DalrympleInfection]: http://cjasn.asnjournals.org/content/3/5/1487.full#sec-23 "Epidemiology of Acute Infections among Patients with Chronic Kidney Disease"
+[MaizelSepsis]: https://bmcnephrol.biomedcentral.com/articles/10.1186/1471-2369-14-77 "Impact of non-dialysis chronic kidney disease on survival in patients with septic shock"
 
 # Relationships
 

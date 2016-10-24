@@ -9,10 +9,20 @@ Known Correlates that have not been added yet
             - Vasculitis
             - ...
         - Dehydration
+        - Diabetes
+            - http://www.pathophys.org/ckd/
+            - http://www.kidneypathology.com/English_version/Diabetes_and_others.html
+            - Metformin + Iodine
+            - ...
         - Hyperlipidemia
             - leads to atherosclerosis in the kidney arteries (and presumably glomerular hypertension etc. etc.)
             - Hypercholesterolemia
                 - can cause build-up of fatty deposits in the blood vessels supplying the kidneys, which can make it harder for them to work properly
+            - ...
+        - Hypertension (Systemic)
+            - http://www.pathophys.org/ckd/
+            - Hypertensive Nephropathy
+            - Systemic hypertension can be transmitted causing glomerular capillary hypertension and a subsequent accelerated decline in GFR due to glomerular haemodynamic changes (e.g. compensatory hyperfiltration) [ref][MetcalfeProgression] and [ref][YuProgression].
             - ...
         - Hypoperfusion
         - Hypovolemia
@@ -50,6 +60,10 @@ Known Correlates that have not been added yet
             - ...
         - Nephrosis
 - Consequences
+    - Acute Kidney Injury
+        - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
+        - CKD makes you more susceptible to AKI???
+        - ...
     - Cancer
         - https://www.ncbi.nlm.nih.gov/pubmed/20349418
     - CVD

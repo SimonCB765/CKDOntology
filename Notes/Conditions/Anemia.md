@@ -10,12 +10,12 @@
     - Iron Deficiency Anemia
         - Iron deficiency anemia increases in prevalence as kidney function decreases. It is multifactoral in cause, but includes reduction in erythropoietin and hyperuricemia leading to bone marrow suppression.
         - Iron deficiency is common in patients with CKD, and leads to a reduction in formation of red cell haemoglobin, causing hypochromic microcytic anaemia.
-        - Iron availability is controlled by the liver hormone hepcidin, which regulates dietary iron absorption and iron recycling. There are several feedback loops that control hepcidin levels, including iron and EPO.  In CKD patients (particularly in end stage kidney disease patients on hemodialysis), hepcidin levels have been found to be highly elevated, presumably due to reduced renal clearance, inflammation and many of them being prescribed ESA, which deplete the circulating iron pool by increasing erythropoiesis [ref][BabittAnemiaCKD].
-- Consequences
+        - Iron availability is controlled by the liver hormone hepcidin, which regulates dietary iron absorption and iron recycling. There are several feedback loops that control hepcidin levels, including iron and EPO. In CKD patients (particularly in end stage kidney disease patients on hemodialysis), hepcidin levels have been found to be highly elevated, presumably due to reduced renal clearance, inflammation and many of them being prescribed ESA, which deplete the circulating iron pool by increasing erythropoiesis [ref][BabittAnemiaCKD].
     - Relative Erythropoietin Deficiency Anemia
         - The anaemia that goes with renal failure is mainly due to a deficiency of a hormone called erythropoietin (EPO), which is produced by the kidney to stimulate red blood cell production from the bone marrow.
         - In patients with CKD, normochromic normocytic anaemia (anemia where red blood cell size and mean corpuscular hemoglobin concentration respectively are normal) mainly develops from the inhibition of renal synthesis of EPO. In addition to anemia, this may lead to circulating uremic-induced inhibitors of erythropoiesis, shortened red blood cell lifespan and increased blood loss [ref][BabittAnemiaCKD].
         - The anaemia becomes more severe as the GFR decreases.
+- Consequences
 
 # Diagnosis and Treatment
 
