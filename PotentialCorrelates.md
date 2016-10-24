@@ -131,16 +131,13 @@ Likely Or Proven Correlates:
     - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.
 - Infective, obstructive and reflux nephropathies
 - Hyperglycemia
-- Erythropoietin
 - Hyperkalemia
-- Uraemia
 - Myeloma
 - Renal papillary necrosis
 - Pericarditis
     - CKD causes this?
     - This causes angina
 - Cardiovascular Disease
-    - CKD causes this
     - Heart attack, stroke or Cerebrovascular Accident, (congestive) heart failure, ischemic heart disease, COPD (is this CVD?), Peripheral Arterial Disease, Peripheral vascular diseases, Transient Ischaemic Attack, coronary heart disease ("Coronary Artery Disease", "Ischemic Heart Disease"), etc. etc.
     - Risk factors for CVD like: smoking status; lipid management; proteinuria; anaemia; glycated haemoglobin and microalbuminuria in people with diabetes; serum cholesterol and total cholesterol: HDL ratio; BMI, alcohol consumption; urinalysis and total protein creatinine ratio; haemoglobin concentration
 
@@ -155,7 +152,6 @@ Likely Or Proven Correlates:
 
 Other Correlates - No literature checks have been performed to see how these hold up as real causes
 
-- Folate (B12) Deficiency
 - Impaired Glucose Tolerance
 - Angina - chest pain due to restricted blood flow
 - Balkan (endemic) Nephropathy (ReadV2 K0B6.)
@@ -177,14 +173,12 @@ Treatments
         - Thiazide, loop, potassium sparing, potassium sparing compound
         - http://www.pathophys.org/diuretics/
 - Calcium channel blocker
-- Erythropoietin Stimulating Agents
 - Non-steroidal anti-inflammatory drugs (NSAIDs)
     - Aspirin
 - Insulin
 - T2DM - Meglitinides (glinides), thiazolidinediones (glitazones), sulphonylureas (sulfonylureas), Metformin, Alpha Glucosidase Inhibitors, Amylin Analogs, Biguanides, DPP-4 Inhibitors, Incretin Mimetics, etc.
 - Anticoagulants, antiplatelets, etc.
     - Persantin, Warfarin, Clopidogrel, etc.
-- Iron Therapy
 - Insulin (Insulin Preparations)
 
 Measurements (for CKD, its causes and probably any effects it has)
@@ -210,4 +204,3 @@ Measurements (for CKD, its causes and probably any effects it has)
     - Bicarbonate (serum, etc.)
     - C reactive Protein (serum, etc.)
     - Framingham QRISK cardiovascular
-    - Uric Acid
