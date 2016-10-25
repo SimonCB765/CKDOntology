@@ -20,6 +20,7 @@ Find information for the following conditions:
 - Hematuria
 - Hypercoagulability
 - Hyperkalemia
+    - Potassium accumulates in the blood (hyperkalemia with a range of symptoms including malaise and potentially fatal cardiac arrhythmias). Hyperkalemia usually does not develop until the glomerular filtration rate falls to less than 20-25 ml/min/1.73 m2, at which point the kidneys have decreased ability to excrete potassium. Hyperkalemia in CKD can be exacerbated by acidemia (which leads to extracellular shift of potassium) and from lack of insulin.
 - Hyperlipidemia (Hypercholesterolemia and Hypertriglyceridemia)
     - Treatments
         - [ref][YuProgression]

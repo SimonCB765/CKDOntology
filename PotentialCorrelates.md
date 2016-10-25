@@ -54,11 +54,6 @@ Known Correlates that have not been added yet
             - Polycystic Kidney Disease
         - Hypercalcemia
         - Myoglobinuria
-        - Nephritis
-            - Pyelonephritis
-            - (Tubulo-)Interstitial Nephritis
-            - ...
-        - Nephrosis
 - Consequences
     - Acute Kidney Injury
         - http://jasn.asnjournals.org/content/20/6/1199.full#sec-3
@@ -82,42 +77,23 @@ Known Correlates that have not been added yet
 - Tests/Diagnoses
     - http://www.edren.org/pages/edreninfo/blood-tests-in-kidney-disease.php
     - blood test
-        - Creatinine (eGFR)
-        - Urea
         - Sodium
         - Potassium
-        - Calcium
-        - Phosphate
         - Bicarbonate
-        - Cholesterol
-        - Total protein
-        - Albumin
         - Glucose (a ‘fasting’ sample)
-    - urine test
-        - albumin and creatinine in your urine – known as the albumin-to-creatinine ratio, or ACR
-        - blood in urine
-        - protein in urine
     - angiotensin 2?
-    - kidney biopsy – a small sample of kidney tissue is removed using a needle so the cells can be examined under a microscope for signs of damage
     - scans
         - an ultrasound scan, magnetic resonance imaging (MRI) scan or computerised tomography (CT) scan – to see what the kidneys look like and check whether there are any blockages
 - Treatments
-    - Lifestyle Changes
-        - smoking cessation
-        - dietary changes
-        - reduce salt intake
-        - exercise
-        - reduce alcohol consumption
-        - lose weight
-        - avoiding medicines (e.g. over the counter NSAIDs)
-    - Mainly treat other diseases
-    - Dialysis
-    - Renal Transplant
     - ACE inhibitors
         - [ref][MetcalfeProgression] The kidneys also generate angiotensin II locally, independent of the systemic system, and acting via the angiotensin II type 1 receptor this has significant non-haemodynamic effects contributing to the development of tubulo-interstitial fibrosis by stimulating expression of cytokines and growth factors favouring fibrosis and recruitment of macrophages [26]. Thus, the use of angiotensin-converting enzyme (ACE) inhibitors performs a dual role, both lowering the glomerular capillary pressure and preventing the increase in pro-fibrotic cytokine expression.
         - ACE inhibitors reduce proteinuria and limit the progression of deterioration of CKD both by reducing glomerular capillary hypertension and by reducing the mean dimensions of large unselective pores of the glomerular capillary wall so enhancing the size-selective function of this barrier to macromolecules.
-    - [ref][AbbateProgression]
-        - The renoprotection that was conferred by angiotensin-converting enzyme (ACE) inhibition in the REIN study was mediated by the drug’s action of reducing urinary protein levels, to the extent that patients who were on ramipril had a better outcome paralleled by more reduction in proteinuria, whereas BP was comparable to that of control subjects (3). ACE inhibitor–induced reduction in proteinuria was the strongest time-dependent covariate predicting slower progression to ESRD.
+        - [ref][AbbateProgression]
+            - The renoprotection that was conferred by angiotensin-converting enzyme (ACE) inhibition in the REIN study was mediated by the drug’s action of reducing urinary protein levels, to the extent that patients who were on ramipril had a better outcome paralleled by more reduction in proteinuria, whereas BP was comparable to that of control subjects (3). ACE inhibitor–induced reduction in proteinuria was the strongest time-dependent covariate predicting slower progression to ESRD.
+        - ACE inhibitors cause relaxation of blood vessels, as well as a decreased blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. They inhibit the angiotensin-converting enzyme, an important component of the renin–angiotensin–aldosterone system.
+        - Treats
+            - Hypertension - Ref: CKD Medscape CME Expert Column Series: Issue 3 — Management of Chronic Kidney Disease Comorbidities)
+            - Congestive Heart Failure
 
 
 
@@ -131,7 +107,6 @@ Likely Or Proven Correlates:
     - In renal failure the kidneys are unable to excrete the normal acid waste products of the body. People in renal failure often have too much acid in the blood (acidaemia) and have to take bicarbonate tablets to neutralise this.
 - Infective, obstructive and reflux nephropathies
 - Hyperglycemia
-- Hyperkalemia
 - Myeloma
 - Renal papillary necrosis
 - Pericarditis
@@ -140,30 +115,14 @@ Likely Or Proven Correlates:
 - Cardiovascular Disease
     - Heart attack, stroke or Cerebrovascular Accident, (congestive) heart failure, ischemic heart disease, COPD (is this CVD?), Peripheral Arterial Disease, Peripheral vascular diseases, Transient Ischaemic Attack, coronary heart disease ("Coronary Artery Disease", "Ischemic Heart Disease"), etc. etc.
     - Risk factors for CVD like: smoking status; lipid management; proteinuria; anaemia; glycated haemoglobin and microalbuminuria in people with diabetes; serum cholesterol and total cholesterol: HDL ratio; BMI, alcohol consumption; urinalysis and total protein creatinine ratio; haemoglobin concentration
-
-
-- Signs and Symptoms
-    - Hypoxia
     - Blood pressure is increased due to fluid overload and production of vasoactive hormones created by the kidney via the renin-angiotensin system, increasing one's risk of developing hypertension and/or suffering from congestive heart failure.
-    - Urea accumulates, leading to azotemia and ultimately uremia (symptoms ranging from lethargy to pericarditis and encephalopathy). Due to its high systemic circulation, urea is excreted in eccrine sweat at high concentrations and crystallizes on skin as the sweat evaporates ("uremic frost").
-    - Potassium accumulates in the blood (hyperkalemia with a range of symptoms including malaise and potentially fatal cardiac arrhythmias). Hyperkalemia usually does not develop until the glomerular filtration rate falls to less than 20-25 ml/min/1.73 m2, at which point the kidneys have decreased ability to excrete potassium. Hyperkalemia in CKD can be exacerbated by acidemia (which leads to extracellular shift of potassium) and from lack of insulin.[8]
-    - Hypocalcemia, due to 1,25 dihydroxyvitamin D3 deficiency (caused by stimulation of FGF-23 and reduction of renal mass),[12] and resistance to the calcemic action of parathyroid hormone.[13] Osteocytes are responsible for the increased production of FGF-23, which is a potent inhibitor of the enzyme 1-alpha-hydroxylase (responsible for the conversion of 25-hydroxycholecalciferol into 1,25 dihydroxyvitamin D3).[14] Later, this progresses to secondary hyperparathyroidism, renal osteodystrophy, and vascular calcification that further impairs cardiac function. An extreme consequence is the occurrence of the rare condition named calciphylaxis.[15]
-
-
-Other Correlates - No literature checks have been performed to see how these hold up as real causes
-
+- Hypoxia
 - Impaired Glucose Tolerance
 - Angina - chest pain due to restricted blood flow
 - Balkan (endemic) Nephropathy (ReadV2 K0B6.)
-- Dehydration
 
 Treatments
 
-- Angiotensin-converting enzyme (ACE) inhibitors
-    - ACE inhibitors cause relaxation of blood vessels, as well as a decreased blood volume, which leads to lower blood pressure and decreased oxygen demand from the heart. They inhibit the angiotensin-converting enzyme, an important component of the renin–angiotensin–aldosterone system.
-    - Treats
-        - Hypertension - Ref: CKD Medscape CME Expert Column Series: Issue 3 — Management of Chronic Kidney Disease Comorbidities)
-        - Congestive Heart Failure
 - Anti-hypertensives (some codes in the QICKD concepts “Anti hypertensive Drugs Horich”, “Diuretics Drugs Horich”, “Anti hypertensive Drugs”, “Diuretics Drugs”)
     - Alpha-adrenoceptor blockers
     - Beta-adrenoceptor blockers
@@ -181,26 +140,14 @@ Treatments
     - Persantin, Warfarin, Clopidogrel, etc.
 - Insulin (Insulin Preparations)
 
-Measurements (for CKD, its causes and probably any effects it has)
+Measurements
 
-- CKD
-    - Creatinine (serum, etc.)
-        - Can be affected by creatinine generation (muscle mass and diet), tubular secretion and extrarenal removal
-    - eGFR and Glomerular Filtration Rate (GFR)
-    - Albumin in the urine, urine microalbumin, ACR, (micro)ACR, (micro)albumin excretion rate, serum albumin
-        - (micro/macro)albuminuria
-    - Protein in the urine, PCR, urine protein excretion, serum total protein
-        - Protienuria
-- Other
-    - Blood Pressure
-    - Glucose (blood, serum, fasting, level, etc.)
-    - Haemoglobin (estimated, A1, A1c, level, etc.)
-        - The A1 measures are probably HbA1c
-    - Fructosamine (serum, etc.)
-    - Cholesterol (blood, serum, fasting, total, etc.)
-    - Triglycerides (serum, etc.)
-    - Aldosterone
-    - Folate (B12)
-    - Bicarbonate (serum, etc.)
-    - C reactive Protein (serum, etc.)
-    - Framingham QRISK cardiovascular
+- Blood Pressure
+- Glucose (blood, serum, fasting, level, etc.)
+- Haemoglobin (estimated, A1, A1c, level, etc.)
+    - The A1 measures are probably HbA1c
+- Fructosamine (serum, etc.)
+- Aldosterone
+- Bicarbonate (serum, etc.)
+- C reactive Protein (serum, etc.)
+- Framingham QRISK cardiovascular
