@@ -7,7 +7,7 @@ Chronic Renal Insufficiency
 
 # Definition
 
-Chronic kidney disease (CKD) is a general term for a range of heterogeneous disorders affecting the structure and function of the kidney CKD manifests as a progressive loss of renal function over time, and is defined as "abnormalities of kidney structure or function, present for at least 3 months, with implications for health" [ref][KDIGO2012]. Classification of CKD is based on cause, glomerular filtration rate (GFR) and albuminuria category (i.e. the severity of kidney damage) [ref][KDIGO2012]. Categories of GFR are:
+Chronic kidney disease (CKD) is a general term for a range of heterogeneous disorders affecting the structure and function of the kidney. CKD manifests as a progressive loss of renal function over time, and is defined as "abnormalities of kidney structure or function, present for at least 3 months, with implications for health" [ref][KDIGO2012]. Classification of CKD is based on cause, glomerular filtration rate (GFR) and albuminuria category (i.e. the severity of kidney damage) [ref][KDIGO2012]. Categories of GFR are:
 
 - G1 - Normal or high - GFR >= 90 mL/min/1.73 m2
 - G2 - Mildly decreased - GFR in the range 60-89 mL/min/1.73 m2
